@@ -1,0 +1,2186 @@
+{
+ "ids": [
+  "home",
+  "about",
+  "sslc",
+  "puc",
+  "degree",
+  "online",
+  "students",
+  "gallery",
+  "admissions",
+  "locations",
+  "contact"
+ ],
+ "phone": "+917760625912",
+ "phoneTxt": "+91 77606 25912",
+ "waBase": "https://wa.me/916364013899?text=",
+ "waTxt": "+91 63640 13899",
+ "waMsg": {
+  "en": "Hello Priority Academy, I would like guidance about my education options.",
+  "kn": "ನಮಸ್ಕಾರ Priority Academy, ನನ್ನ ಓದಿನ ಆಯ್ಕೆಗಳ ಬಗ್ಗೆ ಮಾರ್ಗದರ್ಶನ ಬೇಕು."
+ },
+ "maps": "https://www.google.com/maps/search/?api=1&query=SV+Arcade+Gurunath+Layout+Huralichikkanahalli+Hesaraghatta+Main+Road+Bengaluru+560090",
+ "T": {
+  "en": {
+   "home": "Home",
+   "about": "About",
+   "courses": "Courses",
+   "sslc": "SSLC / 10th",
+   "puc": "PUC / 12th",
+   "degree": "Degree & Distance",
+   "online": "Online Learning",
+   "students": "Our Students",
+   "admissions": "Admissions & Fees",
+   "locations": "Locations",
+   "contact": "Contact",
+   "cta": "Contact Us",
+   "call": "Call Now",
+   "whatsapp": "WhatsApp",
+   "faq": "Common questions",
+   "steps": "How admission works",
+   "more": "Learn more",
+   "talk": "Talk to our team",
+   "talk_sub": "Call or WhatsApp us from anywhere in Karnataka.",
+   "directions": "Get directions",
+   "founder_role": "Founder",
+   "lang_btn": "ಕನ್ನಡ",
+   "menu": "Menu",
+   "s1": "1:1",
+   "s1l": "Personal Guidance",
+   "s2": "4",
+   "s2l": "Course Pathways",
+   "s3": "100%",
+   "s3l": "Results",
+   "script1": "Your Success,",
+   "script2": "Our Priority",
+   "office": "Our office",
+   "hours": "Call before visiting",
+   "fname": "Name",
+   "fphone": "Mobile number",
+   "fcity": "City / district",
+   "fqual": "Last qualification",
+   "fcourse": "Interested course",
+   "fq": "Your question",
+   "choose": "Select",
+   "courses_opts": [
+    "SSLC / 10th",
+    "PUC / 12th",
+    "Degree & Distance Education",
+    "Online Education",
+    "Need guidance choosing a course"
+   ],
+   "quals": [
+    "Below 10th",
+    "10th incomplete",
+    "SSLC / 10th completed",
+    "PUC / 12th incomplete",
+    "PUC / 12th completed",
+    "Degree incomplete",
+    "Degree completed",
+    "Other"
+   ],
+   "consent": "I agree to share these details with Priority Academy and be contacted about my education enquiry.",
+   "submit": "Continue to WhatsApp",
+   "note": "Review and send your prepared message in WhatsApp.",
+   "ready": "Your message is ready.",
+   "open_wa": "Open WhatsApp",
+   "err": "Please fill in name, mobile number, qualification, course and tick the consent box.",
+   "foot_tag": "Education & Academic Guidance",
+   "foot_line": "Based in Bengaluru. Enquiries welcome from across Karnataka.",
+   "rights": "© 2026 Priority Academy. All rights reserved.",
+   "pages": "Pages",
+   "reach": "Reach us",
+   "gallery": "Gallery"
+  },
+  "kn": {
+   "home": "ಮುಖಪುಟ",
+   "about": "ನಮ್ಮ ಬಗ್ಗೆ",
+   "courses": "ಕೋರ್ಸ್‌ಗಳು",
+   "sslc": "SSLC / 10th",
+   "puc": "PUC / 12th",
+   "degree": "Degree ಮತ್ತು ದೂರಶಿಕ್ಷಣ",
+   "online": "Online ಓದು",
+   "students": "ನಮ್ಮ ವಿದ್ಯಾರ್ಥಿಗಳು",
+   "admissions": "ಪ್ರವೇಶ ಮತ್ತು ಶುಲ್ಕ",
+   "locations": "ಸ್ಥಳಗಳು",
+   "contact": "ಸಂಪರ್ಕಿಸಿ",
+   "cta": "ಸಂಪರ್ಕಿಸಿ",
+   "call": "ಕರೆ ಮಾಡಿ",
+   "whatsapp": "WhatsApp",
+   "faq": "ಸಾಮಾನ್ಯ ಪ್ರಶ್ನೆಗಳು",
+   "steps": "ಪ್ರವೇಶದ ಹಂತಗಳು",
+   "more": "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ",
+   "talk": "ನಮ್ಮ ತಂಡದ ಜೊತೆ ಮಾತಾಡಿ",
+   "talk_sub": "ಕರ್ನಾಟಕದ ಎಲ್ಲಿಂದಲಾದರೂ Call ಅಥವಾ WhatsApp ಮಾಡಿ.",
+   "directions": "ದಾರಿ ತೋರಿಸಿ",
+   "founder_role": "ಸಂಸ್ಥಾಪಕರು",
+   "lang_btn": "English",
+   "menu": "ಮೆನು",
+   "s1": "1:1",
+   "s1l": "ವೈಯಕ್ತಿಕ ಮಾರ್ಗದರ್ಶನ",
+   "s2": "4",
+   "s2l": "ಕೋರ್ಸ್ ಮಾರ್ಗಗಳು",
+   "s3": "100%",
+   "s3l": "ಫಲಿತಾಂಶ",
+   "script1": "Your Success,",
+   "script2": "Our Priority",
+   "office": "ನಮ್ಮ ಕಚೇರಿ",
+   "hours": "ಭೇಟಿಗೂ ಮೊದಲು ಕರೆ ಮಾಡಿ",
+   "fname": "ಹೆಸರು",
+   "fphone": "ಮೊಬೈಲ್ ಸಂಖ್ಯೆ",
+   "fcity": "ಊರು / ಜಿಲ್ಲೆ",
+   "fqual": "ಕೊನೆಯ Qualification",
+   "fcourse": "ಆಸಕ್ತಿ ಇರುವ Course",
+   "fq": "ನಿಮ್ಮ ಪ್ರಶ್ನೆ",
+   "choose": "ಆಯ್ಕೆ ಮಾಡಿ",
+   "courses_opts": [
+    "SSLC / 10th",
+    "PUC / 12th",
+    "Degree & Distance Education",
+    "Online Education",
+    "Course ಆಯ್ಕೆಗೆ ಮಾರ್ಗದರ್ಶನ ಬೇಕು"
+   ],
+   "quals": [
+    "10th ಕ್ಕಿಂತ ಕಡಿಮೆ",
+    "10th ಪೂರ್ಣಗೊಂಡಿಲ್ಲ",
+    "SSLC / 10th ಪೂರ್ಣ",
+    "PUC / 12th ಪೂರ್ಣಗೊಂಡಿಲ್ಲ",
+    "PUC / 12th ಪೂರ್ಣ",
+    "Degree ಪೂರ್ಣಗೊಂಡಿಲ್ಲ",
+    "Degree ಪೂರ್ಣ",
+    "ಇತರೆ"
+   ],
+   "consent": "ಈ ವಿವರಗಳನ್ನು Priority Academy ಜೊತೆ ಹಂಚಿಕೊಳ್ಳಲು ಮತ್ತು ನನ್ನ ಓದಿನ enquiry ಬಗ್ಗೆ ಸಂಪರ್ಕಿಸಲು ನಾನು ಒಪ್ಪುತ್ತೇನೆ.",
+   "submit": "WhatsAppನಲ್ಲಿ ಮುಂದುವರಿಸಿ",
+   "note": "ಸಿದ್ಧವಾದ Message ಪರಿಶೀಲಿಸಿ, WhatsAppನಲ್ಲಿ ಕಳುಹಿಸಿ.",
+   "ready": "ನಿಮ್ಮ Message ಸಿದ್ಧವಾಗಿದೆ.",
+   "open_wa": "WhatsApp ತೆರೆಯಿರಿ",
+   "err": "ದಯವಿಟ್ಟು ಹೆಸರು, ಮೊಬೈಲ್ ಸಂಖ್ಯೆ, Qualification, Course ತುಂಬಿ ಮತ್ತು ಸಮ್ಮತಿ ಗುರುತು ಹಾಕಿ.",
+   "foot_tag": "ಶಿಕ್ಷಣ ಮತ್ತು ಶೈಕ್ಷಣಿಕ ಮಾರ್ಗದರ್ಶನ",
+   "foot_line": "ಕಚೇರಿ ಬೆಂಗಳೂರಿನಲ್ಲಿ. ಕರ್ನಾಟಕದಾದ್ಯಂತ ವಿಚಾರಣೆಗಳಿಗೆ ಸ್ವಾಗತ.",
+   "rights": "© 2026 Priority Academy. ಎಲ್ಲ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ.",
+   "pages": "ಪುಟಗಳು",
+   "reach": "ಸಂಪರ್ಕ",
+   "gallery": "ಗ್ಯಾಲರಿ"
+  }
+ },
+ "F": {
+  "en": {
+   "open": "Admissions Open",
+   "c10": "10th Std / SSLC",
+   "c12": "2nd PUC",
+   "streams": "Science · Commerce · Arts",
+   "direct": "Direct Examination Opportunity",
+   "res1": "100%",
+   "res2": "Results",
+   "helpline": "Admissions helpline",
+   "fail_t": "Fail / Discontinue?",
+   "fail_h": "Don’t Worry!",
+   "fail_p": "Your education journey can continue again.",
+   "cont": "Continue Your Education",
+   "cont_l": [
+    "After 10th (SSLC) → PUC / ITI / Diploma opportunities",
+    "After 2nd PUC → Degree & higher education opportunities",
+    "Build your career without losing valuable years"
+   ],
+   "prog": "Degree & Postgraduate Programmes",
+   "ug": "Undergraduate Courses",
+   "pg": "Postgraduate Courses",
+   "appr": "Approved & Recognised",
+   "appr_l": [
+    "Approved & recognised by Central & State Government",
+    "AIU Equivalency",
+    "COBSE Membership",
+    "Govt. Approved Board",
+    "DigiLocker-enabled certificates"
+   ],
+   "why": "Why Choose Priority Academy?",
+   "why_s": "For students",
+   "why_l": [
+    "Personal Attention",
+    "Flexible Learning Support",
+    "Higher Education Assistance",
+    "Career Guidance & Counselling",
+    "Student-Friendly Learning Environment",
+    "Future-Focused Academic Support"
+   ],
+   "spec": "Special Opportunity For",
+   "spec_l": [
+    "SSLC / 10th fail & discontinued students",
+    "2nd PUC (Science, Commerce & Arts) fail & discontinued students",
+    "Working professionals",
+    "Education gap students",
+    "Higher education aspirants"
+   ],
+   "learn": "Learn Today",
+   "lead": "Lead Tomorrow",
+   "never1": "Education never stops…",
+   "never2": "Your future starts here!",
+   "tag": "Empowering Students · Building Futures · Creating Success",
+   "together": "Building Bright Futures Together",
+   "enquire": "Enquire Now",
+   "strip": "Admissions Open — 10th / SSLC & 2nd PUC · Direct Examination Opportunity"
+  },
+  "kn": {
+   "open": "ಪ್ರವೇಶ ಆರಂಭವಾಗಿದೆ",
+   "c10": "10ನೇ ತರಗತಿ / SSLC",
+   "c12": "ದ್ವಿತೀಯ PUC",
+   "streams": "Science · Commerce · Arts",
+   "direct": "ನೇರ ಪರೀಕ್ಷೆಗೆ ಅವಕಾಶ",
+   "res1": "100%",
+   "res2": "ಫಲಿತಾಂಶ",
+   "helpline": "ಪ್ರವೇಶ ಸಹಾಯವಾಣಿ",
+   "fail_t": "ಫೇಲ್ ಆಗಿದ್ದೀರಾ / ಓದು ನಿಲ್ಲಿಸಿದ್ದೀರಾ?",
+   "fail_h": "ಚಿಂತೆ ಬೇಡ!",
+   "fail_p": "ನಿಮ್ಮ ಓದಿನ ಪಯಣ ಮತ್ತೆ ಮುಂದುವರಿಯಬಹುದು.",
+   "cont": "ನಿಮ್ಮ ಓದು ಮುಂದುವರಿಸಿ",
+   "cont_l": [
+    "10th (SSLC) ನಂತರ → PUC / ITI / Diploma ಅವಕಾಶಗಳು",
+    "ದ್ವಿತೀಯ PUC ನಂತರ → Degree ಮತ್ತು ಉನ್ನತ ಶಿಕ್ಷಣದ ಅವಕಾಶಗಳು",
+    "ಅಮೂಲ್ಯ ವರ್ಷಗಳನ್ನು ಕಳೆದುಕೊಳ್ಳದೆ ನಿಮ್ಮ ವೃತ್ತಿಜೀವನ ರೂಪಿಸಿ"
+   ],
+   "prog": "Degree ಮತ್ತು ಸ್ನಾತಕೋತ್ತರ ಕೋರ್ಸ್‌ಗಳು",
+   "ug": "ಪದವಿ (UG) ಕೋರ್ಸ್‌ಗಳು",
+   "pg": "ಸ್ನಾತಕೋತ್ತರ (PG) ಕೋರ್ಸ್‌ಗಳು",
+   "appr": "ಅನುಮೋದನೆ ಮತ್ತು ಮಾನ್ಯತೆ",
+   "appr_l": [
+    "ಕೇಂದ್ರ ಮತ್ತು ರಾಜ್ಯ ಸರ್ಕಾರದಿಂದ ಅನುಮೋದನೆ ಮತ್ತು ಮಾನ್ಯತೆ",
+    "AIU ಸಮಾನತೆ (Equivalency)",
+    "COBSE ಸದಸ್ಯತ್ವ",
+    "ಸರ್ಕಾರ ಅನುಮೋದಿತ Board",
+    "DigiLocker ನಲ್ಲಿ ಲಭ್ಯವಿರುವ ಪ್ರಮಾಣಪತ್ರಗಳು"
+   ],
+   "why": "Priority Academy ಯನ್ನೇ ಏಕೆ ಆಯ್ಕೆ ಮಾಡಬೇಕು?",
+   "why_s": "ವಿದ್ಯಾರ್ಥಿಗಳಿಗಾಗಿ",
+   "why_l": [
+    "ವೈಯಕ್ತಿಕ ಗಮನ",
+    "ಅನುಕೂಲಕರ ಕಲಿಕೆಯ ಬೆಂಬಲ",
+    "ಉನ್ನತ ಶಿಕ್ಷಣಕ್ಕೆ ಸಹಾಯ",
+    "ವೃತ್ತಿ ಮಾರ್ಗದರ್ಶನ ಮತ್ತು ಕೌನ್ಸೆಲಿಂಗ್",
+    "ವಿದ್ಯಾರ್ಥಿ ಸ್ನೇಹಿ ಕಲಿಕೆಯ ವಾತಾವರಣ",
+    "ಭವಿಷ್ಯ ಕೇಂದ್ರಿತ ಶೈಕ್ಷಣಿಕ ಬೆಂಬಲ"
+   ],
+   "spec": "ವಿಶೇಷ ಅವಕಾಶ ಯಾರಿಗೆ?",
+   "spec_l": [
+    "SSLC / 10th ಫೇಲ್ ಮತ್ತು ಓದು ನಿಲ್ಲಿಸಿದ ವಿದ್ಯಾರ್ಥಿಗಳು",
+    "ದ್ವಿತೀಯ PUC (Science, Commerce & Arts) ಫೇಲ್ ಮತ್ತು ಓದು ನಿಲ್ಲಿಸಿದ ವಿದ್ಯಾರ್ಥಿಗಳು",
+    "ಉದ್ಯೋಗದಲ್ಲಿರುವವರು",
+    "ಓದಿನಲ್ಲಿ ವಿರಾಮವಿರುವ ವಿದ್ಯಾರ್ಥಿಗಳು",
+    "ಉನ್ನತ ಶಿಕ್ಷಣದ ಆಕಾಂಕ್ಷಿಗಳು"
+   ],
+   "learn": "ಇಂದು ಕಲಿಯಿರಿ",
+   "lead": "ನಾಳೆ ಮುನ್ನಡೆಸಿ",
+   "never1": "ಶಿಕ್ಷಣ ನಿಲ್ಲಬಾರದು…",
+   "never2": "ನಿಮ್ಮ ಯಶಸ್ಸಿನ ಪಯಣ ಇಲ್ಲಿಂದ ಆರಂಭವಾಗುತ್ತದೆ!",
+   "tag": "ವಿದ್ಯಾರ್ಥಿಗಳ ಸಬಲೀಕರಣ · ಭವಿಷ್ಯ ನಿರ್ಮಾಣ · ಯಶಸ್ಸಿನ ಸೃಷ್ಟಿ",
+   "together": "ಜೊತೆಯಾಗಿ ಉಜ್ವಲ ಭವಿಷ್ಯ ನಿರ್ಮಿಸೋಣ",
+   "enquire": "ಈಗಲೇ ವಿಚಾರಿಸಿ",
+   "strip": "ಪ್ರವೇಶ ಆರಂಭ — 10th / SSLC ಮತ್ತು ದ್ವಿತೀಯ PUC · ನೇರ ಪರೀಕ್ಷೆಗೆ ಅವಕಾಶ"
+  }
+ },
+ "H": {
+  "en": {
+   "kicker": "Admissions open · 10th, 2nd PUC, Degree & PG",
+   "h1a": "It’s never too late to",
+   "h1b": "pick up where you left off.",
+   "sub": "Failed an exam? Had to stop midway? Life happens. Your education journey can continue again — and we’ll walk it with you, one step at a time.",
+   "wa": "Talk to us on WhatsApp",
+   "call": "or call",
+   "note": "Better late than never.",
+   "where": "Where are you right now?",
+   "where_s": "Pick the line that sounds like you.",
+   "rows": [
+    [
+     "I didn’t finish 10th.",
+     "10th Std / SSLC · Direct examination opportunity",
+     "#sslc"
+    ],
+    [
+     "I stopped before finishing 2nd PUC.",
+     "2nd PUC · Science · Commerce · Arts",
+     "#puc"
+    ],
+    [
+     "I’ve passed PUC and want a degree.",
+     "BA · B.Com · BBA · BCA · B.Sc",
+     "#degree"
+    ],
+    [
+     "I have a degree and want to go further.",
+     "MA · M.Com · MBA · MCA · M.Sc",
+     "#degree"
+    ],
+    [
+     "I’m working, but I still want that qualification.",
+     "Flexible options for working professionals",
+     "#contact"
+    ]
+   ],
+   "q": "Fall seven times, stand up eight.",
+   "qa": "— Japanese proverb",
+   "qb": "A failed exam is a chapter, not the whole story. Whether you stopped after 10th or 2nd PUC, the road to PUC, ITI, Diploma, a degree and beyond is still open — without losing more valuable years.",
+   "why": "Why Choose Priority Academy?",
+   "why_s": "Six promises, kept simple.",
+   "whys": [
+    [
+     "Personal attention",
+     "You’re a name here, not a roll number."
+    ],
+    [
+     "Flexible learning support",
+     "Study around your job, your family and your life."
+    ],
+    [
+     "Career guidance & counselling",
+     "Clear advice before you decide anything."
+    ],
+    [
+     "Higher education assistance",
+     "We help with the step after this one, too."
+    ],
+    [
+     "Student-friendly environment",
+     "No judgement about old marks or long gaps."
+    ],
+    [
+     "Future-focused support",
+     "Preparing for where you want to be, not just the exam."
+    ]
+   ],
+   "trust": "Approved & recognised",
+   "res": "Results",
+   "made": "Made for real lives.",
+   "made_p": "For students who <mark>failed or discontinued SSLC</mark> or <mark>2nd PUC</mark> (Science, Commerce & Arts). For <mark>working professionals</mark>. For anyone with an <mark>education gap</mark> — one year or five. And for everyone who simply wants to <mark>aim higher</mark>.",
+   "end1": "Education never stops.",
+   "end2": "Your future starts here.",
+   "other": "ಶಿಕ್ಷಣ ನಿಲ್ಲಬಾರದು… ನಿಮ್ಮ ಯಶಸ್ಸಿನ ಪಯಣ ಇಲ್ಲಿಂದ ಆರಂಭವಾಗುತ್ತದೆ!",
+   "ltl": "Learn today. Lead tomorrow.",
+   "visit": "Visit us",
+   "addr": "SV Arcade, No. 116, Gurunath Layout, Opp. Bus Stop, Huralichikkanahalli, Hesaraghatta Main Road, Bengaluru – 560090"
+  },
+  "kn": {
+   "kicker": "ಪ್ರವೇಶ ಆರಂಭ · 10th, ದ್ವಿತೀಯ PUC, Degree ಮತ್ತು PG",
+   "h1a": "ನಿಂತ ಓದನ್ನು ಮತ್ತೆ ಆರಂಭಿಸಲು",
+   "h1b": "ತಡವೆಂಬುದೇ ಇಲ್ಲ.",
+   "sub": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ಫೇಲ್ ಆಯ್ತಾ? ಮಧ್ಯದಲ್ಲೇ ಓದು ನಿಲ್ಲಿಸಬೇಕಾಯ್ತಾ? ಜೀವನದಲ್ಲಿ ಹೀಗಾಗುತ್ತದೆ. ನಿಮ್ಮ ಓದಿನ ಪಯಣ ಮತ್ತೆ ಮುಂದುವರಿಯಬಹುದು — ಪ್ರತಿ ಹೆಜ್ಜೆಯಲ್ಲೂ ನಾವು ಜೊತೆಗಿರುತ್ತೇವೆ.",
+   "wa": "WhatsAppನಲ್ಲಿ ಮಾತಾಡಿ",
+   "call": "ಅಥವಾ ಕರೆ ಮಾಡಿ",
+   "note": "ಕಲಿಯುವುದಕ್ಕೆ ವಯಸ್ಸಿಲ್ಲ.",
+   "where": "ನೀವು ಈಗ ಎಲ್ಲಿದ್ದೀರಿ?",
+   "where_s": "ನಿಮಗೆ ಹೊಂದುವ ಸಾಲನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.",
+   "rows": [
+    [
+     "ನಾನು 10th ಪೂರ್ಣಗೊಳಿಸಿಲ್ಲ.",
+     "10ನೇ ತರಗತಿ / SSLC · ನೇರ ಪರೀಕ್ಷೆಗೆ ಅವಕಾಶ",
+     "#sslc"
+    ],
+    [
+     "ದ್ವಿತೀಯ PUC ಮುಗಿಸುವ ಮೊದಲೇ ಓದು ನಿಲ್ಲಿಸಿದೆ.",
+     "ದ್ವಿತೀಯ PUC · Science · Commerce · Arts",
+     "#puc"
+    ],
+    [
+     "PUC ಪಾಸ್ ಆಗಿದ್ದೇನೆ, Degree ಮಾಡಬೇಕು.",
+     "BA · B.Com · BBA · BCA · B.Sc",
+     "#degree"
+    ],
+    [
+     "Degree ಇದೆ, ಇನ್ನೂ ಮುಂದೆ ಓದಬೇಕು.",
+     "MA · M.Com · MBA · MCA · M.Sc",
+     "#degree"
+    ],
+    [
+     "ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದೇನೆ, ಆದರೂ ಆ ವಿದ್ಯಾರ್ಹತೆ ಬೇಕು.",
+     "ಉದ್ಯೋಗದಲ್ಲಿರುವವರಿಗೆ ಅನುಕೂಲಕರ ಆಯ್ಕೆಗಳು",
+     "#contact"
+    ]
+   ],
+   "q": "ಏಳು ಬಾರಿ ಬಿದ್ದರೂ, ಎಂಟನೇ ಬಾರಿ ಎದ್ದು ನಿಲ್ಲಿ.",
+   "qa": "— ಜಪಾನಿನ ಗಾದೆ",
+   "qb": "ಫೇಲ್ ಆದ ಒಂದು ಪರೀಕ್ಷೆ ಜೀವನದ ಒಂದು ಅಧ್ಯಾಯ ಮಾತ್ರ, ಇಡೀ ಕಥೆಯಲ್ಲ. 10th ಅಥವಾ ದ್ವಿತೀಯ PUC ನಂತರ ಓದು ನಿಂತಿದ್ದರೂ, PUC, ITI, Diploma, Degree ಮತ್ತು ಅದರಾಚೆಗೆ ಹೋಗುವ ದಾರಿ ಇನ್ನೂ ತೆರೆದಿದೆ — ಇನ್ನಷ್ಟು ಅಮೂಲ್ಯ ವರ್ಷಗಳನ್ನು ಕಳೆದುಕೊಳ್ಳದೆ.",
+   "why": "Priority Academy ಯನ್ನೇ ಏಕೆ ಆಯ್ಕೆ ಮಾಡಬೇಕು?",
+   "why_s": "ಸರಳವಾದ ಆರು ಭರವಸೆಗಳು.",
+   "whys": [
+    [
+     "ವೈಯಕ್ತಿಕ ಗಮನ",
+     "ಇಲ್ಲಿ ನೀವು ಒಂದು ರೋಲ್ ನಂಬರ್ ಅಲ್ಲ, ಒಂದು ಹೆಸರು."
+    ],
+    [
+     "ಅನುಕೂಲಕರ ಕಲಿಕೆಯ ಬೆಂಬಲ",
+     "ಕೆಲಸ, ಮನೆ, ಜೀವನದ ಜೊತೆಗೇ ಓದು."
+    ],
+    [
+     "ವೃತ್ತಿ ಮಾರ್ಗದರ್ಶನ ಮತ್ತು ಕೌನ್ಸೆಲಿಂಗ್",
+     "ಯಾವುದೇ ನಿರ್ಧಾರಕ್ಕೂ ಮೊದಲು ಸ್ಪಷ್ಟ ಸಲಹೆ."
+    ],
+    [
+     "ಉನ್ನತ ಶಿಕ್ಷಣಕ್ಕೆ ಸಹಾಯ",
+     "ಈ ಹೆಜ್ಜೆಯ ನಂತರದ ಹೆಜ್ಜೆಗೂ ನಾವು ಜೊತೆ."
+    ],
+    [
+     "ವಿದ್ಯಾರ್ಥಿ ಸ್ನೇಹಿ ವಾತಾವರಣ",
+     "ಹಳೆಯ ಅಂಕ ಅಥವಾ ದೀರ್ಘ ವಿರಾಮದ ಬಗ್ಗೆ ಯಾವ ತೀರ್ಪೂ ಇಲ್ಲ."
+    ],
+    [
+     "ಭವಿಷ್ಯ ಕೇಂದ್ರಿತ ಬೆಂಬಲ",
+     "ಕೇವಲ ಪರೀಕ್ಷೆಗಲ್ಲ, ನೀವು ತಲುಪಬೇಕಾದ ಗುರಿಗೆ ತಯಾರಿ."
+    ]
+   ],
+   "trust": "ಅನುಮೋದನೆ ಮತ್ತು ಮಾನ್ಯತೆ",
+   "res": "ಫಲಿತಾಂಶ",
+   "made": "ನಿಜ ಜೀವನಕ್ಕಾಗಿ.",
+   "made_p": "<mark>SSLC</mark> ಅಥವಾ <mark>ದ್ವಿತೀಯ PUC</mark> (Science, Commerce & Arts) ಯಲ್ಲಿ <mark>ಫೇಲ್ ಆದವರಿಗೆ ಅಥವಾ ಓದು ನಿಲ್ಲಿಸಿದವರಿಗೆ</mark>. <mark>ಉದ್ಯೋಗದಲ್ಲಿರುವವರಿಗೆ</mark>. ಒಂದು ವರ್ಷ — ಅಥವಾ ಐದು ವರ್ಷ — <mark>ಓದಿನಲ್ಲಿ ವಿರಾಮ</mark> ಇರುವವರಿಗೆ. ಮತ್ತು <mark>ಇನ್ನೂ ಎತ್ತರಕ್ಕೆ ಏರಬೇಕೆನ್ನುವ</mark> ಎಲ್ಲರಿಗೂ.",
+   "end1": "ಶಿಕ್ಷಣ ನಿಲ್ಲಬಾರದು…",
+   "end2": "ನಿಮ್ಮ ಯಶಸ್ಸಿನ ಪಯಣ ಇಲ್ಲಿಂದ ಆರಂಭವಾಗುತ್ತದೆ!",
+   "other": "Education never stops… Your future starts here!",
+   "ltl": "ಇಂದು ಕಲಿಯಿರಿ. ನಾಳೆ ಮುನ್ನಡೆಸಿ.",
+   "visit": "ಭೇಟಿ ನೀಡಿ",
+   "addr": "SV Arcade, No. 116, Gurunath Layout, Opp. Bus Stop, Huralichikkanahalli, Hesaraghatta Main Road, Bengaluru – 560090"
+  }
+ },
+ "OF": {
+  "en": {
+   "started": "Admissions started",
+   "title": "Courses we offer"
+  },
+  "kn": {
+   "started": "ಪ್ರವೇಶ ಆರಂಭವಾಗಿದೆ",
+   "title": "ನಮ್ಮಲ್ಲಿ ಲಭ್ಯವಿರುವ ಕೋರ್ಸ್‌ಗಳು"
+  }
+ },
+ "ASK": {
+  "en": "<span class=\"mk\">Failed</span> or <span style=\"white-space:nowrap\"><span class=\"mk mk2\">Discontinued</span><span class=\"qm\">?</span></span>",
+  "kn": "<span class=\"mk\">ಎಸ್‌ಎಸ್‌ಎಲ್‌ಸಿ</span> ಅಥವಾ <span class=\"mk\">ಪಿಯುಸಿ</span> <span class=\"mk mk2\">ಅರ್ಧದಲ್ಲೇ ನಿಲ್ಲಿಸಿದ್ದೀರಾ</span><span class=\"qm\">?</span>"
+ },
+ "AG": {
+  "en": {
+   "by": "An initiative of",
+   "title": "Part of the Priority family",
+   "body": "Priority Academy is an initiative of Priority Ads Agency. Both share one promise to every student and family we work with:",
+   "promise": "Your Success Is Our Priority."
+  },
+  "kn": {
+   "by": "ಇದರ ಉಪಕ್ರಮ",
+   "title": "Priority ಕುಟುಂಬದ ಭಾಗ",
+   "body": "Priority Academy, Priority Ads Agency ಯ ಒಂದು ಉಪಕ್ರಮ. ನಾವು ಜೊತೆಯಾಗುವ ಪ್ರತಿಯೊಬ್ಬ ವಿದ್ಯಾರ್ಥಿ ಮತ್ತು ಕುಟುಂಬಕ್ಕೆ ನಮ್ಮ ಒಂದೇ ಭರವಸೆ:",
+   "promise": "ನಿಮ್ಮ ಯಶಸ್ಸೇ ನಮ್ಮ ಆದ್ಯತೆ."
+  }
+ },
+ "UG": [
+  [
+   "BA",
+   "book"
+  ],
+  [
+   "B.Com",
+   "calc"
+  ],
+  [
+   "BBA",
+   "people"
+  ],
+  [
+   "BCA",
+   "monitor"
+  ],
+  [
+   "B.Sc",
+   "flask"
+  ]
+ ],
+ "PG": [
+  [
+   "MA",
+   "book"
+  ],
+  [
+   "M.Com",
+   "chart"
+  ],
+  [
+   "MBA",
+   "brief"
+  ],
+  [
+   "MCA",
+   "code"
+  ],
+  [
+   "M.Sc",
+   "atom"
+  ]
+ ],
+ "icons": {
+  "book": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3 5c3-1 6-1 9 1 3-2 6-2 9-1v14c-3-1-6-1-9 1-3-2-6-2-9-1z\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12 6v14\"/>",
+  "calc": "<rect fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x=\"5\" y=\"3\" width=\"14\" height=\"18\" rx=\"2\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8 7h8M8 12h.01M12 12h.01M16 12h.01M8 16h.01M12 16h.01M16 16h.01\"/>",
+  "people": "<circle fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" cx=\"9\" cy=\"8\" r=\"3\"/><circle fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" cx=\"17\" cy=\"9\" r=\"2.4\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3 20c0-3.5 2.7-6 6-6s6 2.5 6 6M15 14.5c3 0 6 2 6 5\"/>",
+  "monitor": "<rect fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x=\"3\" y=\"4\" width=\"18\" height=\"12\" rx=\"2\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8 20h8M12 16v4\"/>",
+  "flask": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9 3h6M10 3v6L4.5 19a1.5 1.5 0 0 0 1.3 2h12.4a1.5 1.5 0 0 0 1.3-2L14 9V3\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 15h10\"/>",
+  "chart": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4 20V10M10 20V5M16 20v-7M22 20H2\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4 8l6-4 6 6 5-5\"/>",
+  "brief": "<rect fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x=\"3\" y=\"7\" width=\"18\" height=\"13\" rx=\"2\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9 7V5a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v2M3 13h18\"/>",
+  "code": "<rect fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" x=\"3\" y=\"4\" width=\"18\" height=\"13\" rx=\"2\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M10 8l-2.5 2.5L10 13M14 8l2.5 2.5L14 13M8 21h8\"/>",
+  "atom": "<circle cx=\"12\" cy=\"12\" r=\"1.6\" fill=\"currentColor\"/><ellipse fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" cx=\"12\" cy=\"12\" rx=\"10\" ry=\"4\"/><ellipse fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" cx=\"12\" cy=\"12\" rx=\"10\" ry=\"4\" transform=\"rotate(60 12 12)\"/><ellipse fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" cx=\"12\" cy=\"12\" rx=\"10\" ry=\"4\" transform=\"rotate(120 12 12)\"/>",
+  "student": "<circle fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" cx=\"12\" cy=\"7\" r=\"4\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4 21c0-4.4 3.6-8 8-8s8 3.6 8 8\"/>",
+  "stack": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4 7h16v4H4zM5 11h14v4H5zM4 15h16v5H4z\"/>",
+  "clock": "<circle fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" cx=\"12\" cy=\"12\" r=\"9\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12 7v5l3 2\"/>",
+  "cap": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M2 9l10-5 10 5-10 5z\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6 11v5c4 3 8 3 12 0v-5M22 9v6\"/>",
+  "bank": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3 10l9-6 9 6M5 10v8M9 10v8M15 10v8M19 10v8M3 21h18\"/>",
+  "target": "<circle fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" cx=\"12\" cy=\"12\" r=\"9\"/><circle fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" cx=\"12\" cy=\"12\" r=\"5\"/><circle cx=\"12\" cy=\"12\" r=\"1.5\" fill=\"currentColor\"/>",
+  "rocket": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 15c-1.5 1.5-2 5-2 5s3.5-.5 5-2M9 15l-3-3c1-4 5-9 13-9 0 8-5 12-9 13z\"/><circle fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" cx=\"15\" cy=\"9\" r=\"1.8\"/>",
+  "check": "<path d=\"M4.5 10.5l3.5 3.5 7.5-8\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>",
+  "star": "<path d=\"M12 2l2.9 6.3 6.9.7-5.2 4.6 1.5 6.8L12 17l-6.1 3.4 1.5-6.8L2.2 9l6.9-.7z\" fill=\"currentColor\"/>"
+ },
+ "cardIcons": [
+  "<path d=\"M4 6h16v12H4z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><path d=\"M8 10h8M8 14h5\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/>",
+  "<path d=\"M3 9l9-5 9 5-9 5z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linejoin=\"round\"/><path d=\"M7 11v5c3 2 7 2 10 0v-5\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/>",
+  "<circle cx=\"12\" cy=\"12\" r=\"8\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><path d=\"M12 7v5l3 2\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/>",
+  "<rect x=\"4\" y=\"5\" width=\"16\" height=\"11\" rx=\"2\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/><path d=\"M8 20h8M12 16v4\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/>",
+  "<path d=\"M12 3l2.6 5.6 6 .7-4.5 4.1 1.2 6L12 16.5 6.7 19.4l1.2-6L3.4 9.3l6-.7z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linejoin=\"round\"/>"
+ ],
+ "logo": "<svg class=\"mark\" width=\"50\" height=\"50\" viewBox=\"0 0 56 56\" aria-hidden=\"true\"><rect x=\"2\" y=\"2\" width=\"52\" height=\"52\" rx=\"16\" fill=\"url(#lgm)\"/><rect x=\"5\" y=\"5\" width=\"46\" height=\"46\" rx=\"13\" fill=\"none\" stroke=\"#fff\" stroke-opacity=\".22\" stroke-width=\"1.2\"/><path d=\"M28 45c-5-3.2-11-3.6-16-2.2V25.4c5-1.4 11-1 16 2.2 5-3.2 11-3.6 16-2.2v17.4c-5-1.4-11-1-16 2.2z\" fill=\"#fff\"/><path d=\"M28 27.6V45\" stroke=\"#b9adff\" stroke-width=\"1.6\"/><path d=\"M15.5 30.5c3.6-.6 7-.2 9.5 1.2M15.5 35c3.6-.6 7-.2 9.5 1.2M40.5 30.5c-3.6-.6-7-.2-9.5 1.2M40.5 35c-3.6-.6-7-.2-9.5 1.2\" stroke=\"#d6cffd\" stroke-width=\"1.3\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M28 8.5L43.5 15 28 21.5 12.5 15z\" fill=\"url(#gold)\"/><path d=\"M19.5 17.6v4.6c4.8 3 12.2 3 17 0v-4.6L28 21.2z\" fill=\"#f5b72a\"/><path d=\"M41.5 16v7.5\" stroke=\"#ffd66b\" stroke-width=\"1.6\" stroke-linecap=\"round\"/><circle cx=\"41.5\" cy=\"25\" r=\"2\" fill=\"#ffd66b\"/></svg>",
+ "pages": {
+  "home": {
+   "en": {
+    "seo": "SSLC, PUC & Degree Guidance Karnataka | Priority Academy",
+    "meta": "Explore SSLC, PUC, distance degree and online education options across Karnataka. Contact Priority Academy in Bengaluru for academic and admission guidance.",
+    "sections": [
+     {
+      "title": "Your Next Qualification. Our Priority.",
+      "blocks": [
+       [
+        "pill",
+        "SSLC / 10th · PUC / 12th · Degree · Distance & Online Education"
+       ],
+       [
+        "p",
+        "Your education plans deserve clear answers. Whether you want to continue school education, choose a degree or return after a study break, start by understanding your options."
+       ],
+       [
+        "p",
+        "At Priority Academy, tell us about your previous studies, your goals and your day-to-day commitments. Let’s discuss the pathways available for your background."
+       ],
+       [
+        "buttons",
+        [
+         "Explore Courses",
+         "Speak to Our Team"
+        ]
+       ]
+      ]
+     },
+     {
+      "title": "What Would You Like to Study?",
+      "blocks": [
+       [
+        "card",
+        [
+         "SSLC / 10th",
+         "Understand your options for continuing school education, including eligibility, subjects and admission requirements."
+        ]
+       ],
+       [
+        "card",
+        [
+         "PUC / 12th",
+         "Explore available Arts, Commerce and Science pathways in relation to your future study plans."
+        ]
+       ],
+       [
+        "card",
+        [
+         "Degree & Distance Education",
+         "Discuss programmes, awarding universities, study requirements and available options based on your qualifications."
+        ]
+       ],
+       [
+        "card",
+        [
+         "Online Education",
+         "Understand classes, assignments, examinations and time commitments before choosing a programme."
+        ]
+       ]
+      ]
+     },
+     {
+      "title": "Start With the Questions That Matter.",
+      "blocks": [
+       [
+        "p",
+        "What can I apply for? Who awards the qualification? How will I study? What will it cost? What documents will I need?"
+       ],
+       [
+        "p",
+        "Bring these questions to our team. Make your decision after reviewing the details."
+       ]
+      ]
+     },
+     {
+      "title": "Enquiries From Across Karnataka",
+      "blocks": [
+       [
+        "p",
+        "Students and parents can contact us by phone or WhatsApp from anywhere in Karnataka. Our office is on Hesaraghatta Main Road in Bengaluru."
+       ],
+       [
+        "statement",
+        "Tell Us Your Last Qualification and the Course You’re Considering."
+       ],
+       [
+        "phone",
+        "Call: +91 7760625912 · WhatsApp: +91 6364013899"
+       ],
+       [
+        "script",
+        "Priority Academy — Your Success Is Our Priority."
+       ]
+      ]
+     }
+    ]
+   },
+   "kn": {
+    "seo": "ಕರ್ನಾಟಕದಲ್ಲಿ SSLC, PUC, Degree ಮಾರ್ಗದರ್ಶನ | Priority Academy",
+    "meta": "ಕರ್ನಾಟಕದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ SSLC, PUC, Degree, ದೂರಶಿಕ್ಷಣ ಮತ್ತು Online Education ಮಾಹಿತಿ. Priority Academyಯಲ್ಲಿ ಓದು ಮತ್ತು ಪ್ರವೇಶದ ಬಗ್ಗೆ ಮಾರ್ಗದರ್ಶನ ಪಡೆಯಿರಿ.",
+    "sections": [
+     {
+      "title": "ನಿಮ್ಮ ಮುಂದಿನ ಓದು. ನಮ್ಮ ಮೊದಲ ಆದ್ಯತೆ.",
+      "blocks": [
+       [
+        "pill",
+        "SSLC / 10th · PUC / 12th · Degree · Distance & Online Education"
+       ],
+       [
+        "p",
+        "ಶಾಲಾ ಓದು ಪೂರ್ಣಗೊಳಿಸಬೇಕಾ? Degree ಆಯ್ಕೆ ಮಾಡಬೇಕಾ? ಓದಿನಲ್ಲಿ ವಿರಾಮದ ನಂತರ ಮತ್ತೆ ಮುಂದುವರಿಸಬೇಕಾ?"
+       ],
+       [
+        "p",
+        "ನಿಮ್ಮ ಹಿಂದಿನ ಓದು, ಮುಂದಿನ ಗುರಿ ಮತ್ತು ದಿನಚರಿಯ ಬಗ್ಗೆ Priority Academy ಜೊತೆ ಮಾತನಾಡಿ. ನಿಮ್ಮ ಹಿನ್ನೆಲೆಗೆ ಹೊಂದುವ ಆಯ್ಕೆಗಳನ್ನು ತಿಳಿದುಕೊಂಡು ಮುಂದಿನ ಹೆಜ್ಜೆ ನಿರ್ಧರಿಸಿ."
+       ],
+       [
+        "buttons",
+        [
+         "ಕೋರ್ಸ್‌ಗಳ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ",
+         "ನಮ್ಮ ತಂಡದ ಜೊತೆ ಮಾತಾಡಿ"
+        ]
+       ]
+      ]
+     },
+     {
+      "title": "ನೀವು ಏನು ಓದಬೇಕು ಅಂತಿದ್ದೀರಿ?",
+      "blocks": [
+       [
+        "card",
+        [
+         "SSLC / 10th",
+         "ಶಾಲಾ ಓದು ಮುಂದುವರಿಸುವ ಆಯ್ಕೆಗಳು, ಅರ್ಹತೆ, ವಿಷಯಗಳು ಮತ್ತು ಪ್ರವೇಶದ ಅಗತ್ಯಗಳ ಬಗ್ಗೆ ತಿಳಿದುಕೊಳ್ಳಿ."
+        ]
+       ],
+       [
+        "card",
+        [
+         "PUC / 12th",
+         "ಮುಂದಿನ ಓದಿನ ಗುರಿಯನ್ನು ಗಮನದಲ್ಲಿಟ್ಟುಕೊಂಡು ಲಭ್ಯವಿರುವ Arts, Commerce ಮತ್ತು Science ಆಯ್ಕೆಗಳ ಬಗ್ಗೆ ಚರ್ಚಿಸಿ."
+        ]
+       ],
+       [
+        "card",
+        [
+         "Degree & Distance Education",
+         "ನಿಮ್ಮ ವಿದ್ಯಾರ್ಹತೆಗೆ ಅನ್ವಯಿಸುವ ಕೋರ್ಸ್‌ಗಳು, ವಿಶ್ವವಿದ್ಯಾಲಯ ಮತ್ತು ಓದಿನ ಅಗತ್ಯಗಳ ಬಗ್ಗೆ ಮಾಹಿತಿ ಪಡೆಯಿರಿ."
+        ]
+       ],
+       [
+        "card",
+        [
+         "Online Education",
+         "ತರಗತಿಗಳು, assignments, ಪರೀಕ್ಷೆಗಳು ಮತ್ತು ಬೇಕಾಗುವ ಸಮಯದ ಬಗ್ಗೆ ತಿಳಿದು ಆಯ್ಕೆ ಮಾಡಿ."
+        ]
+       ]
+      ]
+     },
+     {
+      "title": "ನಿಮ್ಮ ಪ್ರಶ್ನೆಗಳಿಂದಲೇ ಆರಂಭಿಸೋಣ.",
+      "blocks": [
+       [
+        "p",
+        "ನಾನು ಯಾವ ಕೋರ್ಸ್‌ಗೆ ಅರ್ಜಿ ಸಲ್ಲಿಸಬಹುದು? ಪದವಿ ಅಥವಾ ಪ್ರಮಾಣಪತ್ರ ನೀಡುವ ಸಂಸ್ಥೆ ಯಾವುದು? ಓದು ಹೇಗೆ ನಡೆಯುತ್ತದೆ? ಖರ್ಚು ಎಷ್ಟು? ದಾಖಲೆಗಳು ಯಾವುವು?"
+       ],
+       [
+        "p",
+        "ವಿವರಗಳನ್ನು ತಿಳಿದುಕೊಳ್ಳಿ. ನಂತರ ನಿರ್ಧಾರ ಮಾಡಿ."
+       ]
+      ]
+     },
+     {
+      "title": "ಕರ್ನಾಟಕದ ಎಲ್ಲಿಂದಲಾದರೂ ಸಂಪರ್ಕಿಸಿ.",
+      "blocks": [
+       [
+        "p",
+        "ವಿದ್ಯಾರ್ಥಿಗಳು ಮತ್ತು ಪೋಷಕರು Call ಅಥವಾ WhatsApp ಮೂಲಕ ವಿಚಾರಿಸಬಹುದು. ನಮ್ಮ ಕಚೇರಿ ಬೆಂಗಳೂರಿನ Hesaraghatta Main Roadನಲ್ಲಿದೆ."
+       ],
+       [
+        "statement",
+        "ನಿಮ್ಮ ಕೊನೆಯ Qualification ಮತ್ತು ಆಸಕ್ತಿ ಇರುವ Course ತಿಳಿಸಿ."
+       ],
+       [
+        "phone",
+        "Call: +91 7760625912 · WhatsApp: +91 6364013899"
+       ],
+       [
+        "script",
+        "Priority Academy — Your Success Is Our Priority."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  "about": {
+   "en": {
+    "seo": "About Priority Academy | Education Guidance in Karnataka",
+    "meta": "Learn about Priority Academy, Bengaluru. Meet our founder and understand our approach to academic guidance, course selection and admission support.",
+    "sections": [
+     {
+      "title": "A Course Begins With a Person.",
+      "blocks": [
+       [
+        "p",
+        "Behind every admission enquiry is someone with a reason to study. It may be a qualification left incomplete, an interest worth pursuing or a goal that now needs a clearer plan."
+       ],
+       [
+        "p",
+        "Priority Academy provides academic and admission guidance for learners considering SSLC, PUC, degree, distance and online education options."
+       ],
+       [
+        "p",
+        "We begin with your background. Your previous education, interests, available time and intended next step all matter when discussing a course."
+       ]
+      ]
+     },
+     {
+      "title": "Our Approach",
+      "blocks": [
+       [
+        "card",
+        [
+         "Listen first",
+         "Understand what you have studied and what you want to work towards."
+        ]
+       ],
+       [
+        "card",
+        [
+         "Explain the details",
+         "Discuss eligibility, the awarding institution, study requirements, documents and fees."
+        ]
+       ],
+       [
+        "card",
+        [
+         "Support the next step",
+         "Help you understand the applicable admission process and academic requirements."
+        ]
+       ]
+      ]
+     },
+     {
+      "title": "Founder",
+      "blocks": [
+       [
+        "profile",
+        [
+         "Ningappa Sadashiv Pujari",
+         "Founder & Managing Partner"
+        ]
+       ]
+      ]
+     },
+     {
+      "title": "Our Priority",
+      "blocks": [
+       [
+        "p",
+        "We want students and parents to feel comfortable asking basic questions, comparing options and understanding the details before deciding."
+       ],
+       [
+        "p",
+        "Visit our Bengaluru office or begin your enquiry by phone or WhatsApp from across Karnataka."
+       ],
+       [
+        "buttons",
+        [
+         "Get to Know Your Options",
+         "Contact Priority Academy"
+        ]
+       ]
+      ]
+     }
+    ]
+   },
+   "kn": {
+    "seo": "ನಮ್ಮ ಬಗ್ಗೆ | Priority Academy ಕರ್ನಾಟಕ",
+    "meta": "ಬೆಂಗಳೂರಿನ Priority Academy ಮತ್ತು ಸಂಸ್ಥಾಪಕರ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ. ಕೋರ್ಸ್ ಆಯ್ಕೆ, ಓದಿನ ಅಗತ್ಯಗಳು ಮತ್ತು ಪ್ರವೇಶ ಮಾರ್ಗದರ್ಶನದ ಬಗ್ಗೆ ಮಾಹಿತಿ ಪಡೆಯಿರಿ.",
+    "sections": [
+     {
+      "title": "ಪ್ರತಿಯೊಂದು ಪ್ರವೇಶದ ಹಿಂದೆ ಒಬ್ಬರ ಗುರಿ ಇರುತ್ತದೆ.",
+      "blocks": [
+       [
+        "p",
+        "ಒಬ್ಬರಿಗೆ ನಿಂತಿರುವ ಓದು ಪೂರ್ಣಗೊಳಿಸಬೇಕು. ಮತ್ತೊಬ್ಬರಿಗೆ ಆಸಕ್ತಿ ಇರುವ ವಿಷಯ ಓದಬೇಕು. ಇನ್ನೊಬ್ಬರಿಗೆ ಮುಂದಿನ ಗುರಿಗಾಗಿ ಸರಿಯಾದ ವಿದ್ಯಾರ್ಹತೆ ಬೇಕು."
+       ],
+       [
+        "p",
+        "Priority Academyಯಲ್ಲಿ SSLC, PUC, Degree, ದೂರಶಿಕ್ಷಣ ಮತ್ತು Online Education ಆಯ್ಕೆಗಳ ಬಗ್ಗೆ ಓದು ಹಾಗೂ ಪ್ರವೇಶಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಮಾರ್ಗದರ್ಶನ ಪಡೆಯಬಹುದು."
+       ],
+       [
+        "p",
+        "ನಿಮ್ಮ ಹಿಂದಿನ ಓದು, ಆಸಕ್ತಿ, ಸಮಯ ಮತ್ತು ಮುಂದಿನ ಗುರಿಯನ್ನು ತಿಳಿದುಕೊಳ್ಳುವುದರಿಂದ ನಮ್ಮ ಮಾತು ಆರಂಭವಾಗುತ್ತದೆ."
+       ]
+      ]
+     },
+     {
+      "title": "ನಮ್ಮ ಕೆಲಸದ ವಿಧಾನ",
+      "blocks": [
+       [
+        "card",
+        [
+         "ಮೊದಲು ನಿಮ್ಮ ಮಾತು",
+         "ನೀವು ಏನು ಓದಿದ್ದೀರಿ, ಮುಂದೆ ಏನು ಮಾಡಬೇಕು ಅಂತಿದ್ದೀರಿ ಎಂದು ತಿಳಿದುಕೊಳ್ಳುವುದು."
+        ]
+       ],
+       [
+        "card",
+        [
+         "ನಂತರ ಸ್ಪಷ್ಟ ಮಾಹಿತಿ",
+         "ಅರ್ಹತೆ, Board / University, ಓದಿನ ಅಗತ್ಯಗಳು, ದಾಖಲೆಗಳು ಮತ್ತು ಶುಲ್ಕದ ಬಗ್ಗೆ ವಿವರಿಸುವುದು."
+        ]
+       ],
+       [
+        "card",
+        [
+         "ಮುಂದಿನ ಹಂತಕ್ಕೆ ಮಾರ್ಗದರ್ಶನ",
+         "ಅನ್ವಯಿಸುವ ಪ್ರವೇಶ ಪ್ರಕ್ರಿಯೆ ಮತ್ತು ಶೈಕ್ಷಣಿಕ ಅಗತ್ಯಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುವುದು."
+        ]
+       ]
+      ]
+     },
+     {
+      "title": "ಸಂಸ್ಥಾಪಕರು",
+      "blocks": [
+       [
+        "profile",
+        [
+         "Ningappa Sadashiv Pujari",
+         "Founder & Managing Partner"
+        ]
+       ]
+      ]
+     },
+     {
+      "title": "ನಮ್ಮ ಆದ್ಯತೆ",
+      "blocks": [
+       [
+        "p",
+        "ವಿದ್ಯಾರ್ಥಿಗಳು ಮತ್ತು ಪೋಷಕರು ತಮ್ಮ ಪ್ರಶ್ನೆಗಳನ್ನು ಮುಕ್ತವಾಗಿ ಕೇಳಬೇಕು. ಆಯ್ಕೆಗಳನ್ನು ಹೋಲಿಸಿ, ವಿವರಗಳನ್ನು ತಿಳಿದು ನಿರ್ಧಾರ ಮಾಡಬೇಕು."
+       ],
+       [
+        "p",
+        "ನಮ್ಮ ಬೆಂಗಳೂರು ಕಚೇರಿಗೆ ಭೇಟಿ ನೀಡಿ ಅಥವಾ ಕರ್ನಾಟಕದ ಎಲ್ಲಿಂದಲಾದರೂ Call / WhatsApp ಮೂಲಕ ಮಾತು ಆರಂಭಿಸಿ."
+       ],
+       [
+        "buttons",
+        [
+         "ನಿಮ್ಮ ಆಯ್ಕೆಗಳನ್ನು ತಿಳಿಯಿರಿ",
+         "Priority Academy ಸಂಪರ್ಕಿಸಿ"
+        ]
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  "sslc": {
+   "en": {
+    "seo": "SSLC & 10th Admission Guidance Karnataka | Priority Academy",
+    "meta": "Get guidance on continuing 10th-level education in Karnataka. Discuss your previous studies, board requirements, subjects, documents and admissions.",
+    "sections": [
+     {
+      "title": "Put Your 10th Education Back on the Agenda.",
+      "blocks": [
+       [
+        "p",
+        "If school education or your 10th examination remains incomplete, begin by understanding the options relevant to your previous studies."
+       ],
+       [
+        "p",
+        "Share the last class you attended, the board you studied under, your examination history and the documents available with you."
+       ],
+       [
+        "button",
+        "Discuss My SSLC / 10th Options"
+       ]
+      ]
+     },
+     {
+      "title": "What We Can Discuss",
+      "blocks": [
+       [
+        "list",
+        [
+         "The applicable admission or examination pathway.",
+         "Eligibility, subject choices and board requirements.",
+         "Available academic support and learning arrangements.",
+         "Documents, fees and the relevant schedule."
+        ]
+       ]
+      ]
+     },
+     {
+      "title": "Keep Your Next Goal in Mind.",
+      "blocks": [
+       [
+        "p",
+        "Tell us what you would like to do after completing this stage. Your intended next course may have specific qualification or subject requirements worth checking before you choose."
+       ]
+      ]
+     },
+     {
+      "title": "Preparing for the Conversation",
+      "blocks": [
+       [
+        "p",
+        "Keep details of your previous school, available marks cards, study or transfer certificate, and identification documents ready for discussion. The final document checklist depends on the selected pathway."
+       ]
+      ]
+     },
+     {
+      "title": "I Have a Study Gap. Where Do I Begin?",
+      "blocks": [
+       [
+        "p",
+        "Start with your education history. Your options depend on the applicable board’s requirements and your circumstances."
+       ]
+      ]
+     },
+     {
+      "title": "I Have Appeared for Exams Before. What Should I Share?",
+      "blocks": [
+       [
+        "p",
+        "Tell us the board, subjects, year and result details, and show the relevant records you have."
+       ],
+       [
+        "phone",
+        "Call: +91 7760625912 · WhatsApp: +91 6364013899 to Discuss Your Starting Point."
+       ]
+      ]
+     }
+    ]
+   },
+   "kn": {
+    "seo": "SSLC / 10th ಪ್ರವೇಶ ಮಾರ್ಗದರ್ಶನ ಕರ್ನಾಟಕ | Priority Academy",
+    "meta": "10th ಓದು ಮುಂದುವರಿಸುವ ಬಗ್ಗೆ ಮಾಹಿತಿ ಪಡೆಯಿರಿ. ಹಿಂದಿನ ವಿದ್ಯಾಭ್ಯಾಸ, Board ನಿಯಮಗಳು, ವಿಷಯಗಳು, ದಾಖಲೆಗಳು ಮತ್ತು ಪ್ರವೇಶದ ಬಗ್ಗೆ Priority Academy ಜೊತೆ ಮಾತಾಡಿ.",
+    "sections": [
+     {
+      "title": "ಬಾಕಿ ಉಳಿದಿರುವ 10th ಓದಿನ ಬಗ್ಗೆ ಈಗ ಮಾತಾಡೋಣ.",
+      "blocks": [
+       [
+        "p",
+        "ಶಾಲಾ ಓದು ಅಥವಾ 10th ಪರೀಕ್ಷೆ ಪೂರ್ಣಗೊಳ್ಳದಿದ್ದರೆ, ನಿಮ್ಮ ಹಿಂದಿನ ವಿದ್ಯಾಭ್ಯಾಸಕ್ಕೆ ಅನ್ವಯಿಸುವ ಆಯ್ಕೆಗಳನ್ನು ಮೊದಲು ತಿಳಿದುಕೊಳ್ಳಿ."
+       ],
+       [
+        "p",
+        "ಕೊನೆಯದಾಗಿ ಯಾವ ತರಗತಿ ಓದಿದ್ದೀರಿ, ಯಾವ Boardನಲ್ಲಿ ಓದಿದ್ದೀರಿ, ಪರೀಕ್ಷೆ ಬರೆದಿದ್ದೀರಾ ಮತ್ತು ಯಾವ ದಾಖಲೆಗಳು ನಿಮ್ಮಲ್ಲಿವೆ ಎಂದು ತಿಳಿಸಿ."
+       ],
+       [
+        "button",
+        "ನನ್ನ SSLC / 10th ಆಯ್ಕೆಗಳು ತಿಳಿಸಿ"
+       ]
+      ]
+     },
+     {
+      "title": "ಯಾವ ವಿಷಯಗಳ ಬಗ್ಗೆ ಮಾತಾಡಬಹುದು?",
+      "blocks": [
+       [
+        "list",
+        [
+         "ಅನ್ವಯಿಸುವ ಪ್ರವೇಶ ಅಥವಾ ಪರೀಕ್ಷೆಯ ಮಾರ್ಗ.",
+         "ಅರ್ಹತೆ, ವಿಷಯಗಳ ಆಯ್ಕೆ ಮತ್ತು Board ನಿಯಮಗಳು.",
+         "ಲಭ್ಯವಿರುವ ಓದಿನ ಮಾರ್ಗದರ್ಶನ ಮತ್ತು ಕಲಿಕೆಯ ವ್ಯವಸ್ಥೆ.",
+         "ದಾಖಲೆಗಳು, ಶುಲ್ಕ ಮತ್ತು ಸಂಬಂಧಿತ ವೇಳಾಪಟ್ಟಿ."
+        ]
+       ]
+      ]
+     },
+     {
+      "title": "ಮುಂದಿನ ಗುರಿಯನ್ನೂ ಗಮನದಲ್ಲಿಟ್ಟುಕೊಳ್ಳಿ.",
+      "blocks": [
+       [
+        "p",
+        "ಈ ಹಂತ ಪೂರ್ಣಗೊಳಿಸಿದ ನಂತರ ಏನು ಓದಬೇಕು ಅಂತಿದ್ದೀರಿ ಎಂದು ಹೇಳಿ. ಮುಂದಿನ ಕೋರ್ಸ್‌ಗೆ ಬೇಕಾಗುವ ವಿದ್ಯಾರ್ಹತೆ ಮತ್ತು ವಿಷಯಗಳ ಅಗತ್ಯವನ್ನು ಮೊದಲೇ ಪರಿಶೀಲಿಸುವುದು ಸಹಾಯವಾಗುತ್ತದೆ."
+       ]
+      ]
+     },
+     {
+      "title": "ಮಾತುಕತೆಗೆ ಏನು ಸಿದ್ಧವಾಗಿರಲಿ?",
+      "blocks": [
+       [
+        "p",
+        "ಹಿಂದಿನ ಶಾಲೆಯ ವಿವರ, ನಿಮ್ಮಲ್ಲಿರುವ marks cards, study / transfer certificate ಮತ್ತು ಗುರುತಿನ ದಾಖಲೆಗಳ ಮಾಹಿತಿ ಸಿದ್ಧವಾಗಿರಲಿ. ಅಂತಿಮ ದಾಖಲೆಗಳ ಪಟ್ಟಿ ನೀವು ಆಯ್ಕೆ ಮಾಡುವ ಮಾರ್ಗಕ್ಕೆ ಅನುಗುಣವಾಗಿರುತ್ತದೆ."
+       ]
+      ]
+     },
+     {
+      "title": "ಓದಿನಲ್ಲಿ ವಿರಾಮ ಇದ್ದರೆ ಎಲ್ಲಿಂದ ಆರಂಭಿಸಬೇಕು?",
+      "blocks": [
+       [
+        "p",
+        "ನಿಮ್ಮ ಹಿಂದಿನ ಓದಿನ ವಿವರದಿಂದ ಆರಂಭಿಸಿ. ಸಂಬಂಧಿತ Board ನಿಯಮಗಳು ಮತ್ತು ನಿಮ್ಮ ಪರಿಸ್ಥಿತಿಯ ಆಧಾರದಲ್ಲಿ ಆಯ್ಕೆಗಳು ಬದಲಾಗುತ್ತವೆ."
+       ]
+      ]
+     },
+     {
+      "title": "ಹಿಂದೆ ಪರೀಕ್ಷೆ ಬರೆದಿದ್ದರೆ ಏನು ತಿಳಿಸಬೇಕು?",
+      "blocks": [
+       [
+        "p",
+        "Board, ವಿಷಯಗಳು, ವರ್ಷ ಮತ್ತು ಫಲಿತಾಂಶದ ವಿವರಗಳನ್ನು ನಿಮ್ಮಲ್ಲಿರುವ ದಾಖಲೆಗಳೊಂದಿಗೆ ತಿಳಿಸಿ."
+       ],
+       [
+        "phone",
+        "ನಿಮ್ಮ ಮುಂದಿನ ಹೆಜ್ಜೆಯ ಬಗ್ಗೆ ಮಾತಾಡಲು Call: +91 7760625912 · WhatsApp: +91 6364013899"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  "puc": {
+   "en": {
+    "seo": "PUC & 12th Admission Guidance Karnataka | Priority Academy",
+    "meta": "Explore PUC and 12th-level study options with Priority Academy. Discuss Arts, Commerce, Science, eligibility, subject combinations and admission details.",
+    "sections": [
+     {
+      "title": "Choose Your Subjects With Your Next Goal in Mind.",
+      "blocks": [
+       [
+        "p",
+        "PUC / 12th is a stage where subject choices deserve careful attention. Discuss your interests and what you may want to study afterwards before choosing an available pathway."
+       ],
+       [
+        "p",
+        "Whether you are continuing after 10th or asking about incomplete PUC studies, share your academic records and the questions you have."
+       ],
+       [
+        "button",
+        "Explore My PUC / 12th Options"
+       ]
+      ]
+     },
+     {
+      "title": "Explore the Available Streams.",
+      "blocks": [
+       [
+        "card",
+        [
+         "Arts",
+         "Discuss available subject combinations alongside your interests and further-study plans."
+        ]
+       ],
+       [
+        "card",
+        [
+         "Commerce",
+         "Understand the subjects and requirements relevant to the programme you are considering."
+        ]
+       ],
+       [
+        "card",
+        [
+         "Science",
+         "Confirm subject availability, practical requirements and the eligibility needs of your intended next course."
+        ]
+       ]
+      ]
+     },
+     {
+      "title": "Get the Complete Picture.",
+      "blocks": [
+       [
+        "p",
+        "Ask about the awarding board, qualification title, entry requirements, language options, classes, practicals, examinations, fees and admission schedule."
+       ]
+      ]
+     },
+     {
+      "title": "Have You Studied PUC Before?",
+      "blocks": [
+       [
+        "p",
+        "Share your board, completed subjects, results and available documents. The applicable route depends on the relevant rules and your records."
+       ]
+      ]
+     },
+     {
+      "title": "Which Stream Should I Choose?",
+      "blocks": [
+       [
+        "p",
+        "Begin with what you enjoy studying and your intended next course. Then check the required subject combination and available options."
+       ],
+       [
+        "statement",
+        "Talk to Priority Academy About Your PUC Plans."
+       ]
+      ]
+     }
+    ]
+   },
+   "kn": {
+    "seo": "PUC / 12th ಕೋರ್ಸ್ ಮಾಹಿತಿ ಕರ್ನಾಟಕ | Priority Academy",
+    "meta": "Arts, Commerce ಮತ್ತು Science ಆಯ್ಕೆಗಳ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ. PUC / 12th ಅರ್ಹತೆ, ವಿಷಯಗಳ ಸಂಯೋಜನೆ ಮತ್ತು ಪ್ರವೇಶದ ಬಗ್ಗೆ Priority Academy ಜೊತೆ ಮಾತಾಡಿ.",
+    "sections": [
+     {
+      "title": "ಮುಂದಿನ ಗುರಿಗೆ ಹೊಂದುವ ವಿಷಯಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.",
+      "blocks": [
+       [
+        "p",
+        "PUC / 12th ಹಂತದಲ್ಲಿ ವಿಷಯಗಳ ಆಯ್ಕೆ ಮುಖ್ಯ. ಯಾವ ವಿಷಯದಲ್ಲಿ ಆಸಕ್ತಿ ಇದೆ, ಮುಂದೆ ಯಾವ ಕೋರ್ಸ್ ಓದಬೇಕು ಎಂದು ಯೋಚಿಸುತ್ತಿದ್ದೀರಿ—ಈ ವಿವರಗಳೊಂದಿಗೆ ಲಭ್ಯವಿರುವ ಮಾರ್ಗಗಳ ಬಗ್ಗೆ ಚರ್ಚಿಸಿ."
+       ],
+       [
+        "p",
+        "10th ನಂತರ ಮುಂದುವರಿಸಬೇಕಿದ್ದರೂ, ಹಿಂದಿನ PUC ಓದು ಬಾಕಿ ಇದ್ದರೂ, ನಿಮ್ಮ ಶೈಕ್ಷಣಿಕ ದಾಖಲೆಗಳೊಂದಿಗೆ ಮಾಹಿತಿ ಪಡೆಯಿರಿ."
+       ],
+       [
+        "button",
+        "ನನ್ನ PUC / 12th ಆಯ್ಕೆಗಳು ತಿಳಿಸಿ"
+       ]
+      ]
+     },
+     {
+      "title": "ಲಭ್ಯವಿರುವ Streamಗಳ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ.",
+      "blocks": [
+       [
+        "card",
+        [
+         "Arts",
+         "ನಿಮ್ಮ ಆಸಕ್ತಿ ಮತ್ತು ಮುಂದಿನ ಓದಿಗೆ ಹೊಂದುವ ವಿಷಯಗಳ ಸಂಯೋಜನೆಗಳ ಬಗ್ಗೆ ಚರ್ಚಿಸಿ."
+        ]
+       ],
+       [
+        "card",
+        [
+         "Commerce",
+         "ಆಯ್ಕೆ ಮಾಡುವ ಕೋರ್ಸ್‌ನ ವಿಷಯಗಳು ಮತ್ತು ಅಗತ್ಯಗಳನ್ನು ತಿಳಿದುಕೊಳ್ಳಿ."
+        ]
+       ],
+       [
+        "card",
+        [
+         "Science",
+         "ವಿಷಯಗಳ ಲಭ್ಯತೆ, practicals ಮತ್ತು ಮುಂದೆ ಓದಬೇಕಾದ ಕೋರ್ಸ್‌ನ ಅರ್ಹತೆಯನ್ನು ಪರಿಶೀಲಿಸಿ."
+        ]
+       ]
+      ]
+     },
+     {
+      "title": "ಸಂಪೂರ್ಣ ವಿವರ ಕೇಳಿ.",
+      "blocks": [
+       [
+        "p",
+        "Board, ನೀಡುವ qualification ಹೆಸರು, ಪ್ರವೇಶ ಅರ್ಹತೆ, ಭಾಷಾ ಆಯ್ಕೆಗಳು, ತರಗತಿಗಳು, practicals, ಪರೀಕ್ಷೆಗಳು, ಶುಲ್ಕ ಮತ್ತು ವೇಳಾಪಟ್ಟಿಯ ಬಗ್ಗೆ ತಿಳಿದುಕೊಳ್ಳಿ."
+       ]
+      ]
+     },
+     {
+      "title": "ಹಿಂದೆ PUC ಓದಿದ್ದೀರಾ?",
+      "blocks": [
+       [
+        "p",
+        "Board, ಪೂರ್ಣಗೊಳಿಸಿದ ವಿಷಯಗಳು, ಫಲಿತಾಂಶ ಮತ್ತು ನಿಮ್ಮಲ್ಲಿರುವ ದಾಖಲೆಗಳನ್ನು ತಿಳಿಸಿ. ಸಂಬಂಧಿತ ನಿಯಮಗಳು ಮತ್ತು ದಾಖಲೆಗಳ ಆಧಾರದಲ್ಲಿ ಮುಂದಿನ ಮಾರ್ಗ ಬದಲಾಗುತ್ತದೆ."
+       ]
+      ]
+     },
+     {
+      "title": "ಯಾವ Stream ಆಯ್ಕೆ ಮಾಡಬೇಕು?",
+      "blocks": [
+       [
+        "p",
+        "ನಿಮ್ಮ ಆಸಕ್ತಿ ಮತ್ತು ಮುಂದಿನ ಕೋರ್ಸ್‌ನಿಂದ ಆರಂಭಿಸಿ. ನಂತರ ಅಗತ್ಯವಿರುವ ವಿಷಯಗಳ ಸಂಯೋಜನೆ ಮತ್ತು ಲಭ್ಯವಿರುವ ಆಯ್ಕೆಗಳನ್ನು ಪರಿಶೀಲಿಸಿ."
+       ],
+       [
+        "statement",
+        "ನಿಮ್ಮ PUC ಪ್ಲಾನ್ ಬಗ್ಗೆ Priority Academy ಜೊತೆ ಮಾತಾಡಿ."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  "degree": {
+   "en": {
+    "seo": "Degree & Distance Education Guidance Karnataka | Priority Academy",
+    "meta": "Discuss degree and distance education options in Karnataka. Understand available programmes, university details, eligibility, study requirements and fees.",
+    "sections": [
+     {
+      "title": "A Degree Decision Should Fit Your Goals and Your Life.",
+      "blocks": [
+       [
+        "p",
+        "Your next qualification may need to fit around a job, family responsibilities or a return to studies after a gap."
+       ],
+       [
+        "p",
+        "Discuss available degree and distance education options with Priority Academy. Start with your previous qualification, interests, intended use of the degree and time available for study."
+       ],
+       [
+        "button",
+        "Discuss Degree Options"
+       ]
+      ]
+     },
+     {
+      "title": "Compare the Details That Affect Your Experience.",
+      "blocks": [
+       [
+        "card",
+        [
+         "Programme and university",
+         "Know the exact course and awarding institution, with the relevant recognition details for the programme, mode and intake."
+        ]
+       ],
+       [
+        "card",
+        [
+         "Eligibility and duration",
+         "Understand entry requirements and the applicable completion timeline."
+        ]
+       ],
+       [
+        "card",
+        [
+         "Study commitments",
+         "Ask about learning materials, academic sessions, assignments, practicals, projects and attendance."
+        ]
+       ],
+       [
+        "card",
+        [
+         "Examinations and fees",
+         "Review assessment arrangements and the full fee breakdown before applying."
+        ]
+       ]
+      ]
+     },
+     {
+      "title": "Returning After Incomplete Degree Studies?",
+      "blocks": [
+       [
+        "p",
+        "Share your university, programme, completed semesters, marks cards and study dates. Any possibility of continuing, transferring or receiving credit depends on the applicable university rules and record verification."
+       ]
+      ]
+     },
+     {
+      "title": "Working While Studying?",
+      "blocks": [
+       [
+        "p",
+        "Compare the actual study and examination requirements against your work schedule. Discuss any compulsory visits or attendance before making a decision."
+       ],
+       [
+        "statement",
+        "Bring Your Academic Background. Let’s Discuss the Options."
+       ]
+      ]
+     }
+    ]
+   },
+   "kn": {
+    "seo": "Degree ಮತ್ತು ದೂರಶಿಕ್ಷಣ ಮಾರ್ಗದರ್ಶನ ಕರ್ನಾಟಕ | Priority Academy",
+    "meta": "Degree ಮತ್ತು Distance Education ಆಯ್ಕೆಗಳ ಬಗ್ಗೆ ಮಾಹಿತಿ ಪಡೆಯಿರಿ. ಕೋರ್ಸ್, ವಿಶ್ವವಿದ್ಯಾಲಯ, ಅರ್ಹತೆ, ಓದಿನ ಅಗತ್ಯಗಳು ಮತ್ತು ಶುಲ್ಕವನ್ನು ತಿಳಿದು ನಿರ್ಧಾರ ಮಾಡಿ.",
+    "sections": [
+     {
+      "title": "ನಿಮ್ಮ ಗುರಿ ಮತ್ತು ದಿನಚರಿಗೆ ಹೊಂದುವ Degree ಆಯ್ಕೆ ಮಾಡಿ.",
+      "blocks": [
+       [
+        "p",
+        "ಕೆಲಸ, ಮನೆಯ ಜವಾಬ್ದಾರಿ ಅಥವಾ ಓದಿನ ವಿರಾಮದ ನಂತರ Degree ಮುಂದುವರಿಸುವ ಪ್ಲಾನ್ ಇರಬಹುದು."
+       ],
+       [
+        "p",
+        "Priority Academyಯಲ್ಲಿ ಲಭ್ಯವಿರುವ Degree ಮತ್ತು ದೂರಶಿಕ್ಷಣದ ಆಯ್ಕೆಗಳ ಬಗ್ಗೆ ಚರ್ಚಿಸಿ. ನಿಮ್ಮ ಹಿಂದಿನ ವಿದ್ಯಾರ್ಹತೆ, ಆಸಕ್ತಿ, Degree ಪಡೆಯುವ ಉದ್ದೇಶ ಮತ್ತು ಓದಿಗೆ ಕೊಡಬಹುದಾದ ಸಮಯವನ್ನು ತಿಳಿಸಿ."
+       ],
+       [
+        "button",
+        "Degree ಆಯ್ಕೆಗಳ ಬಗ್ಗೆ ಮಾತಾಡಿ"
+       ]
+      ]
+     },
+     {
+      "title": "ನಿಮ್ಮ ಓದಿಗೆ ಸಂಬಂಧಿಸಿದ ಮುಖ್ಯ ವಿವರಗಳನ್ನು ಹೋಲಿಸಿ.",
+      "blocks": [
+       [
+        "card",
+        [
+         "ಕೋರ್ಸ್ ಮತ್ತು ವಿಶ್ವವಿದ್ಯಾಲಯ",
+         "ಕೋರ್ಸ್‌ನ ನಿಖರ ಹೆಸರು, ಪದವಿ ನೀಡುವ ಸಂಸ್ಥೆ ಮತ್ತು ಆ programme, study mode ಹಾಗೂ intakeಗೆ ಅನ್ವಯಿಸುವ ಮಾನ್ಯತೆಯ ವಿವರ ತಿಳಿಯಿರಿ."
+        ]
+       ],
+       [
+        "card",
+        [
+         "ಅರ್ಹತೆ ಮತ್ತು ಅವಧಿ",
+         "ಪ್ರವೇಶಕ್ಕೆ ಬೇಕಾಗುವ ವಿದ್ಯಾರ್ಹತೆ ಮತ್ತು ಪೂರ್ಣಗೊಳಿಸುವ ಅವಧಿಯನ್ನು ತಿಳಿದುಕೊಳ್ಳಿ."
+        ]
+       ],
+       [
+        "card",
+        [
+         "ಓದಿನ ಅಗತ್ಯಗಳು",
+         "ಪಠ್ಯ ಸಾಮಗ್ರಿ, ತರಗತಿಗಳು, assignments, practicals, projects ಮತ್ತು ಹಾಜರಾತಿ ಬಗ್ಗೆ ಕೇಳಿ."
+        ]
+       ],
+       [
+        "card",
+        [
+         "ಪರೀಕ್ಷೆ ಮತ್ತು ಶುಲ್ಕ",
+         "ಅರ್ಜಿ ಸಲ್ಲಿಸುವ ಮೊದಲು ಪರೀಕ್ಷೆಯ ವ್ಯವಸ್ಥೆ ಮತ್ತು ಸಂಪೂರ್ಣ ಶುಲ್ಕದ ವಿವರವನ್ನು ಪರಿಶೀಲಿಸಿ."
+        ]
+       ]
+      ]
+     },
+     {
+      "title": "Degree ಓದು ಮಧ್ಯದಲ್ಲಿ ನಿಂತಿದೆಯಾ?",
+      "blocks": [
+       [
+        "p",
+        "ವಿಶ್ವವಿದ್ಯಾಲಯ, ಕೋರ್ಸ್, ಪೂರ್ಣಗೊಳಿಸಿದ semesters, marks cards ಮತ್ತು ಓದಿದ ವರ್ಷಗಳ ವಿವರ ತಿಳಿಸಿ. ಮುಂದುವರಿಸುವುದು, transfer ಅಥವಾ credit ಪಡೆಯುವ ಸಾಧ್ಯತೆಗಳು ಸಂಬಂಧಿತ ವಿಶ್ವವಿದ್ಯಾಲಯದ ನಿಯಮಗಳು ಮತ್ತು ದಾಖಲೆ ಪರಿಶೀಲನೆಗೆ ಒಳಪಟ್ಟಿರುತ್ತವೆ."
+       ]
+      ]
+     },
+     {
+      "title": "ಕೆಲಸದ ಜೊತೆ ಓದಬೇಕಾ?",
+      "blocks": [
+       [
+        "p",
+        "ನಿಜವಾದ ಓದು ಮತ್ತು ಪರೀಕ್ಷೆಯ ಅಗತ್ಯಗಳನ್ನು ನಿಮ್ಮ ಕೆಲಸದ ಸಮಯದೊಂದಿಗೆ ಹೋಲಿಸಿ. ಕಡ್ಡಾಯ ಹಾಜರಾತಿ ಅಥವಾ ನೇರ ಭೇಟಿಗಳ ಅಗತ್ಯವಿದ್ದರೆ ಮೊದಲೇ ತಿಳಿದುಕೊಳ್ಳಿ."
+       ],
+       [
+        "statement",
+        "ನಿಮ್ಮ ವಿದ್ಯಾಭ್ಯಾಸದ ವಿವರದೊಂದಿಗೆ ಬನ್ನಿ. ಆಯ್ಕೆಗಳ ಬಗ್ಗೆ ಮಾತಾಡೋಣ."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  "online": {
+   "en": {
+    "seo": "Online Degree Guidance Karnataka | Priority Academy",
+    "meta": "Explore online education with clear guidance on programme eligibility, classes, assignments, examinations, technology requirements and fees.",
+    "sections": [
+     {
+      "title": "Understand Online Learning Before You Choose It.",
+      "blocks": [
+       [
+        "p",
+        "An online programme becomes easier to evaluate when you can picture an ordinary study week. Know when you will attend classes, how you will access lessons and what you will need to submit."
+       ],
+       [
+        "p",
+        "Priority Academy helps you discuss the details of available online education options in the context of your previous qualifications and goals."
+       ],
+       [
+        "button",
+        "Ask About Online Programmes"
+       ]
+      ]
+     },
+     {
+      "title": "Picture Your Study Routine.",
+      "blocks": [
+       [
+        "list",
+        [
+         "Are classes live, recorded or a combination?",
+         "What are the attendance and participation requirements?",
+         "How are lessons and learning materials accessed?",
+         "What device, internet connection or software is required?",
+         "What assignments, projects or practical work are involved?",
+         "How and where are examinations conducted?",
+         "Who provides academic and technical support?"
+        ]
+       ]
+      ]
+     },
+     {
+      "title": "Compare the Full Programme.",
+      "blocks": [
+       [
+        "p",
+        "Check the awarding university, course-specific recognition details, eligibility, duration, fees and application schedule."
+       ]
+      ]
+     },
+     {
+      "title": "Will Everything Be Online?",
+      "blocks": [
+       [
+        "p",
+        "Confirm this for the exact programme. Teaching, practical work, verification and examinations may have different arrangements."
+       ]
+      ]
+     },
+     {
+      "title": "Does Online Learning Fit My Work Schedule?",
+      "blocks": [
+       [
+        "p",
+        "Compare fixed class times, deadlines and examination arrangements with your existing commitments before applying."
+       ],
+       [
+        "statement",
+        "Share Your Qualification and the Subject You Want to Study."
+       ]
+      ]
+     }
+    ]
+   },
+   "kn": {
+    "seo": "Online Degree ಮಾಹಿತಿ ಕರ್ನಾಟಕ | Priority Academy",
+    "meta": "Online ಕೋರ್ಸ್ ಆಯ್ಕೆ ಮಾಡುವ ಮೊದಲು ಅರ್ಹತೆ, ತರಗತಿಗಳು, assignments, ಪರೀಕ್ಷೆಗಳು, ತಂತ್ರಜ್ಞಾನದ ಅಗತ್ಯಗಳು ಮತ್ತು ಶುಲ್ಕದ ಬಗ್ಗೆ ತಿಳಿದುಕೊಳ್ಳಿ.",
+    "sections": [
+     {
+      "title": "Online ಓದು ಹೇಗೆ ನಡೆಯುತ್ತದೆ ಎಂದು ಮೊದಲು ತಿಳಿದುಕೊಳ್ಳಿ.",
+      "blocks": [
+       [
+        "p",
+        "ಒಂದು ಸಾಮಾನ್ಯ ವಾರದಲ್ಲಿ ನೀವು ಯಾವಾಗ ತರಗತಿಗೆ ಹಾಜರಾಗಬೇಕು, ಪಾಠಗಳನ್ನು ಹೇಗೆ ನೋಡಬೇಕು ಮತ್ತು ಯಾವ ಕೆಲಸಗಳನ್ನು ಸಲ್ಲಿಸಬೇಕು ಎಂಬುದು ತಿಳಿದಿದ್ದರೆ ಕೋರ್ಸ್ ಆಯ್ಕೆ ಸುಲಭವಾಗುತ್ತದೆ."
+       ],
+       [
+        "p",
+        "Priority Academyಯಲ್ಲಿ ನಿಮ್ಮ ಹಿಂದಿನ ವಿದ್ಯಾರ್ಹತೆ ಮತ್ತು ಗುರಿಗೆ ಸಂಬಂಧಿಸಿದ Online Education ಆಯ್ಕೆಗಳ ವಿವರಗಳನ್ನು ಚರ್ಚಿಸಬಹುದು."
+       ],
+       [
+        "button",
+        "Online ಕೋರ್ಸ್‌ಗಳ ಬಗ್ಗೆ ಕೇಳಿ"
+       ]
+      ]
+     },
+     {
+      "title": "ನಿಮ್ಮ ಓದಿನ ದಿನಚರಿಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ.",
+      "blocks": [
+       [
+        "list",
+        [
+         "ತರಗತಿಗಳು live ಆಗಿವೆಯಾ, recorded ಆಗಿವೆಯಾ ಅಥವಾ ಎರಡೂ ಇವೆಯಾ?",
+         "ಹಾಜರಾತಿ ಮತ್ತು ತರಗತಿಯಲ್ಲಿ ಭಾಗವಹಿಸುವ ನಿಯಮಗಳೇನು?",
+         "ಪಾಠಗಳು ಮತ್ತು ಪಠ್ಯ ಸಾಮಗ್ರಿ ಹೇಗೆ ಸಿಗುತ್ತದೆ?",
+         "ಯಾವ device, internet ಅಥವಾ software ಬೇಕು?",
+         "Assignments, projects ಅಥವಾ practical ಕೆಲಸಗಳು ಯಾವುವು?",
+         "ಪರೀಕ್ಷೆಗಳು ಹೇಗೆ ಮತ್ತು ಎಲ್ಲಿ ನಡೆಯುತ್ತವೆ?",
+         "ಓದು ಮತ್ತು ತಾಂತ್ರಿಕ ಸಮಸ್ಯೆಗಳಿಗೆ ಯಾರನ್ನು ಸಂಪರ್ಕಿಸಬೇಕು?"
+        ]
+       ]
+      ]
+     },
+     {
+      "title": "ಸಂಪೂರ್ಣ ಕೋರ್ಸ್ ವಿವರವನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "blocks": [
+       [
+        "p",
+        "ಪದವಿ ನೀಡುವ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಕೋರ್ಸ್‌ಗೆ ಸಂಬಂಧಿಸಿದ ಮಾನ್ಯತೆ, ಅರ್ಹತೆ, ಅವಧಿ, ಶುಲ್ಕ ಮತ್ತು ಅರ್ಜಿ ಸಲ್ಲಿಸುವ ವೇಳಾಪಟ್ಟಿ ತಿಳಿದುಕೊಳ್ಳಿ."
+       ]
+      ]
+     },
+     {
+      "title": "ಎಲ್ಲವೂ Onlineನಲ್ಲೇ ನಡೆಯುತ್ತದೆಯಾ?",
+      "blocks": [
+       [
+        "p",
+        "ನೀವು ಆಯ್ಕೆ ಮಾಡುವ ಕೋರ್ಸ್‌ಗೆ ಈ ವಿವರವನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ತರಗತಿಗಳು, practicals, ದಾಖಲೆ ಪರಿಶೀಲನೆ ಮತ್ತು ಪರೀಕ್ಷೆಗಳಿಗೆ ಬೇರೆ ವ್ಯವಸ್ಥೆಗಳು ಇರಬಹುದು."
+       ]
+      ]
+     },
+     {
+      "title": "ಕೆಲಸದ ಸಮಯಕ್ಕೆ ಹೊಂದಿಕೆಯಾಗುತ್ತದೆಯಾ?",
+      "blocks": [
+       [
+        "p",
+        "ನಿಗದಿತ ತರಗತಿ ಸಮಯ, ಸಲ್ಲಿಕೆಯ ದಿನಾಂಕ ಮತ್ತು ಪರೀಕ್ಷೆಯ ವ್ಯವಸ್ಥೆಗಳನ್ನು ನಿಮ್ಮ ದಿನಚರಿಯೊಂದಿಗೆ ಹೋಲಿಸಿ."
+       ],
+       [
+        "statement",
+        "ನಿಮ್ಮ Qualification ಮತ್ತು ಓದಬೇಕಾದ ವಿಷಯವನ್ನು ತಿಳಿಸಿ."
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  "students": {
+   "en": {
+    "seo": "Our Students Across Karnataka | Priority Academy",
+    "meta": "Discover the people and goals behind Priority Academy. Learn about student experiences and share your own education journey with our team.",
+    "sections": [
+     {
+      "title": "Our Students Across Karnataka",
+      "blocks": [
+       [
+        "statement",
+        "Different starting points. Personal goals. A reason to keep learning."
+       ],
+       [
+        "p",
+        "There is a person behind every enrolment: someone returning to studies, choosing the next qualification or making time for a personal ambition."
+       ],
+       [
+        "p",
+        "This is a space for our students’ experiences, the choices they made and the progress they want to share."
+       ]
+      ]
+     },
+     {
+      "title": "The Reason Behind the Course",
+      "blocks": [
+       [
+        "p",
+        "Completing school education. Exploring further studies. Understanding a degree option. Returning to a goal that stayed on the mind."
+       ],
+       [
+        "p",
+        "The details differ from learner to learner. Their own words are the best place to begin."
+       ]
+      ]
+     },
+     {
+      "title": "What Would You Like to Know From Another Student?",
+      "blocks": [
+       [
+        "p",
+        "How did they choose a course? What did they need to prepare? How did study fit into their routine? What helped them understand the requirements?"
+       ],
+       [
+        "p",
+        "These are the experiences we invite our students to share."
+       ]
+      ]
+     },
+     {
+      "title": "Share Your Experience.",
+      "blocks": [
+       [
+        "p",
+        "If you are a Priority Academy student, send us your course, city or district, and the experience you would like to share. Tell us whether you are comfortable with your story or photograph being featured publicly."
+       ],
+       [
+        "button",
+        "Share My Experience on WhatsApp"
+       ]
+      ]
+     },
+     {
+      "title": "Considering Your Own Next Step?",
+      "blocks": [
+       [
+        "p",
+        "Speak with our team about your background and goals. Programme requirements and individual experiences can differ, so review the details relevant to your own choice."
+       ],
+       [
+        "buttons",
+        [
+         "Discuss My Education Options",
+         "Call: +91 7760625912 · WhatsApp: +91 6364013899"
+        ]
+       ]
+      ]
+     }
+    ]
+   },
+   "kn": {
+    "seo": "ಕರ್ನಾಟಕದಾದ್ಯಂತ ನಮ್ಮ ವಿದ್ಯಾರ್ಥಿಗಳು | Priority Academy",
+    "meta": "Priority Academy ವಿದ್ಯಾರ್ಥಿಗಳ ಗುರಿಗಳು ಮತ್ತು ಅನುಭವಗಳಿಗೆ ಮೀಸಲಾದ ಪುಟ. ನಿಮ್ಮ ಓದಿನ ಅನುಭವ ಮತ್ತು ಮುಂದಿನ ಗುರಿಯ ಬಗ್ಗೆ ನಮ್ಮ ತಂಡದೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ.",
+    "sections": [
+     {
+      "title": "ಕರ್ನಾಟಕದಾದ್ಯಂತ ನಮ್ಮ ವಿದ್ಯಾರ್ಥಿಗಳು",
+      "blocks": [
+       [
+        "statement",
+        "ಆರಂಭ ಬೇರೆ. ಗುರಿಗಳು ಬೇರೆ. ಓದು ಮುಂದುವರಿಸಲು ಪ್ರತಿಯೊಬ್ಬರಿಗೂ ತಮ್ಮದೇ ಕಾರಣ."
+       ],
+       [
+        "p",
+        "ಪ್ರತಿಯೊಂದು ಪ್ರವೇಶದ ಹಿಂದೆ ಒಬ್ಬರ ಗುರಿ ಇರುತ್ತದೆ. ಒಬ್ಬರು ಓದಿಗೆ ಮರಳುತ್ತಿದ್ದಾರೆ. ಮತ್ತೊಬ್ಬರು ಮುಂದಿನ ವಿದ್ಯಾರ್ಹತೆಯನ್ನು ಆಯ್ಕೆ ಮಾಡುತ್ತಿದ್ದಾರೆ. ಇನ್ನೊಬ್ಬರು ತಮ್ಮ ಆಸಕ್ತಿಗಾಗಿ ಸಮಯ ಮಾಡಿಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ."
+       ],
+       [
+        "p",
+        "ನಮ್ಮ ವಿದ್ಯಾರ್ಥಿಗಳು ತಮ್ಮ ಆಯ್ಕೆ, ಅನುಭವ ಮತ್ತು ಹಂಚಿಕೊಳ್ಳಲು ಬಯಸುವ ಪ್ರಗತಿಯ ಬಗ್ಗೆ ಹೇಳಿಕೊಳ್ಳಲು ಈ ಪುಟ ಮೀಸಲು."
+       ]
+      ]
+     },
+     {
+      "title": "ಕೋರ್ಸ್ ಆಯ್ಕೆಯ ಹಿಂದೆ ಒಂದು ಕಾರಣ.",
+      "blocks": [
+       [
+        "p",
+        "ಶಾಲಾ ಓದು ಪೂರ್ಣಗೊಳಿಸುವುದು. ಮುಂದಿನ ಓದಿನ ಬಗ್ಗೆ ತಿಳಿಯುವುದು. Degree ಆಯ್ಕೆ ಪರಿಶೀಲಿಸುವುದು. ಮನಸ್ಸಿನಲ್ಲಿದ್ದ ಗುರಿಯತ್ತ ಮತ್ತೆ ಗಮನ ಕೊಡುವುದು."
+       ],
+       [
+        "p",
+        "ಪ್ರತಿಯೊಬ್ಬರ ಅನುಭವವೂ ವಿಭಿನ್ನ. ಅವರ ಮಾತುಗಳಲ್ಲೇ ಅದನ್ನು ತಿಳಿದುಕೊಳ್ಳೋಣ."
+       ]
+      ]
+     },
+     {
+      "title": "ಇನ್ನೊಬ್ಬ ವಿದ್ಯಾರ್ಥಿಯಿಂದ ಏನು ತಿಳಿದುಕೊಳ್ಳಲು ಬಯಸುತ್ತೀರಿ?",
+      "blocks": [
+       [
+        "p",
+        "ಕೋರ್ಸ್ ಹೇಗೆ ಆಯ್ಕೆ ಮಾಡಿದರು? ಏನು ಸಿದ್ಧಪಡಿಸಬೇಕಾಯಿತು? ದಿನಚರಿಯಲ್ಲಿ ಓದಿಗೆ ಹೇಗೆ ಸಮಯ ಮಾಡಿದರು? ಕೋರ್ಸ್‌ನ ಅಗತ್ಯಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಏನು ಸಹಾಯವಾಯಿತು?"
+       ],
+       [
+        "p",
+        "ಈ ಅನುಭವಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ನಮ್ಮ ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು ಆಹ್ವಾನಿಸುತ್ತೇವೆ."
+       ]
+      ]
+     },
+     {
+      "title": "ನಿಮ್ಮ ಅನುಭವ ಹಂಚಿಕೊಳ್ಳಿ.",
+      "blocks": [
+       [
+        "p",
+        "ನೀವು Priority Academy ವಿದ್ಯಾರ್ಥಿಯಾಗಿದ್ದರೆ, ನಿಮ್ಮ Course, ಊರು / ಜಿಲ್ಲೆ ಮತ್ತು ಹಂಚಿಕೊಳ್ಳಲು ಬಯಸುವ ಅನುಭವವನ್ನು ಕಳುಹಿಸಿ. ನಿಮ್ಮ ಅನುಭವ ಅಥವಾ ಫೋಟೋವನ್ನು ಸಾರ್ವಜನಿಕವಾಗಿ ಪ್ರಕಟಿಸಲು ಸಮ್ಮತಿ ಇದೆಯೇ ಎಂಬುದನ್ನೂ ತಿಳಿಸಿ."
+       ],
+       [
+        "button",
+        "WhatsAppನಲ್ಲಿ ನನ್ನ ಅನುಭವ ಹಂಚಿಕೊಳ್ಳುತ್ತೇನೆ"
+       ]
+      ]
+     },
+     {
+      "title": "ನಿಮ್ಮ ಮುಂದಿನ ಓದಿನ ಬಗ್ಗೆ ಯೋಚಿಸುತ್ತಿದ್ದೀರಾ?",
+      "blocks": [
+       [
+        "p",
+        "ನಿಮ್ಮ ಹಿನ್ನೆಲೆ ಮತ್ತು ಗುರಿಯ ಬಗ್ಗೆ ನಮ್ಮ ತಂಡದೊಂದಿಗೆ ಮಾತನಾಡಿ. ಕೋರ್ಸ್‌ನ ನಿಯಮಗಳು ಮತ್ತು ಪ್ರತಿಯೊಬ್ಬರ ಅನುಭವ ಬದಲಾಗಬಹುದು. ನಿಮ್ಮ ಆಯ್ಕೆಗೆ ಸಂಬಂಧಿಸಿದ ವಿವರಗಳನ್ನು ಪರಿಶೀಲಿಸಿ."
+       ],
+       [
+        "buttons",
+        [
+         "ನನ್ನ ಓದಿನ ಆಯ್ಕೆಗಳು ತಿಳಿಸಿ",
+         "Call: +91 7760625912 · WhatsApp: +91 6364013899"
+        ]
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  "admissions": {
+   "en": {
+    "seo": "Admissions, Documents & Fees | Priority Academy Karnataka",
+    "meta": "Understand the enquiry and admission process at Priority Academy. Ask about eligibility, documents, course fees, payment terms and application steps.",
+    "sections": [
+     {
+      "title": "Know What You’re Applying For. Know What You’re Paying For.",
+      "blocks": [
+       [
+        "p",
+        "An admission decision should come with a clear understanding of the programme, awarding institution, academic requirements and total cost."
+       ],
+       [
+        "p",
+        "Start your enquiry with Priority Academy and ask for the details relevant to the course you are considering."
+       ]
+      ]
+     },
+     {
+      "title": "Step 1: Share Your Background.",
+      "blocks": [
+       [
+        "p",
+        "Provide your last qualification, previous study or examination history, course interest and city or district."
+       ]
+      ]
+     },
+     {
+      "title": "Step 2: Review the Programme.",
+      "blocks": [
+       [
+        "p",
+        "Confirm the exact course, board or university, eligibility, duration, study format, examination arrangements and current intake details."
+       ]
+      ]
+     },
+     {
+      "title": "Step 3: Get Your Document Checklist.",
+      "blocks": [
+       [
+        "p",
+        "Ask for the checklist applicable to your programme. It may include identity and age proof, previous academic records, photographs, study or transfer certificates and other documents required for your case."
+       ]
+      ]
+     },
+     {
+      "title": "Step 4: Understand the Full Cost.",
+      "blocks": [
+       [
+        "p",
+        "Ask for a breakdown showing admission or registration charges, tuition, examination charges and any additional applicable fees. Understand the payment schedule and cancellation or refund terms before paying."
+       ]
+      ]
+     },
+     {
+      "title": "Step 5: Follow the Applicable Application Process.",
+      "blocks": [
+       [
+        "p",
+        "Review your name and academic details carefully. Understand how the application is submitted, where payments are made and how admission confirmation will be issued. Keep acknowledgements and receipts."
+       ]
+      ]
+     },
+     {
+      "title": "Does an Enquiry Confirm Admission?",
+      "blocks": [
+       [
+        "p",
+        "An enquiry begins the discussion. Admission depends on eligibility, document verification and the applicable institution’s process."
+       ],
+       [
+        "button",
+        "Request My Course Details and Document Checklist"
+       ]
+      ]
+     }
+    ]
+   },
+   "kn": {
+    "seo": "ಪ್ರವೇಶ, ದಾಖಲೆಗಳು ಮತ್ತು ಶುಲ್ಕ | Priority Academy ಕರ್ನಾಟಕ",
+    "meta": "ಕೋರ್ಸ್ ಅರ್ಹತೆ, ದಾಖಲೆಗಳು, ಶುಲ್ಕ, ಪಾವತಿ ನಿಯಮಗಳು ಮತ್ತು ಅರ್ಜಿ ಸಲ್ಲಿಸುವ ಹಂತಗಳ ಬಗ್ಗೆ ತಿಳಿದುಕೊಳ್ಳಿ. Priority Academyಯಲ್ಲಿ ಪ್ರವೇಶದ ಬಗ್ಗೆ ವಿಚಾರಿಸಿ.",
+    "sections": [
+     {
+      "title": "ಯಾವ ಕೋರ್ಸ್‌ಗೆ ಸೇರುತ್ತಿದ್ದೀರಿ, ಯಾವ ಶುಲ್ಕ ಪಾವತಿಸುತ್ತಿದ್ದೀರಿ—ವಿವರ ತಿಳಿದುಕೊಳ್ಳಿ.",
+      "blocks": [
+       [
+        "p",
+        "ಪ್ರವೇಶದ ನಿರ್ಧಾರ ಮಾಡುವ ಮೊದಲು ಕೋರ್ಸ್, ಪದವಿ ಅಥವಾ ಪ್ರಮಾಣಪತ್ರ ನೀಡುವ ಸಂಸ್ಥೆ, ಓದಿನ ಅಗತ್ಯಗಳು ಮತ್ತು ಒಟ್ಟು ವೆಚ್ಚ ಸ್ಪಷ್ಟವಾಗಿರಲಿ."
+       ],
+       [
+        "p",
+        "Priority Academy ಜೊತೆ ನಿಮ್ಮ enquiry ಆರಂಭಿಸಿ. ಆಸಕ್ತಿ ಇರುವ ಕೋರ್ಸ್‌ಗೆ ಸಂಬಂಧಿಸಿದ ವಿವರಗಳನ್ನು ಕೇಳಿ."
+       ]
+      ]
+     },
+     {
+      "title": "ಹಂತ 1: ನಿಮ್ಮ ಹಿನ್ನೆಲೆ ತಿಳಿಸಿ.",
+      "blocks": [
+       [
+        "p",
+        "ಕೊನೆಯ Qualification, ಹಿಂದಿನ ಓದು ಅಥವಾ ಪರೀಕ್ಷೆಯ ವಿವರ, ಆಸಕ್ತಿ ಇರುವ Course ಮತ್ತು ಊರು / ಜಿಲ್ಲೆ ತಿಳಿಸಿ."
+       ]
+      ]
+     },
+     {
+      "title": "ಹಂತ 2: ಕೋರ್ಸ್ ವಿವರ ಪರಿಶೀಲಿಸಿ.",
+      "blocks": [
+       [
+        "p",
+        "ಕೋರ್ಸ್‌ನ ನಿಖರ ಹೆಸರು, Board / University, ಅರ್ಹತೆ, ಅವಧಿ, ಓದುವ ವಿಧಾನ, ಪರೀಕ್ಷೆಯ ವ್ಯವಸ್ಥೆ ಮತ್ತು ಪ್ರಸ್ತುತ ಪ್ರವೇಶದ ವಿವರಗಳನ್ನು ತಿಳಿದುಕೊಳ್ಳಿ."
+       ]
+      ]
+     },
+     {
+      "title": "ಹಂತ 3: ದಾಖಲೆಗಳ ಪಟ್ಟಿ ಪಡೆಯಿರಿ.",
+      "blocks": [
+       [
+        "p",
+        "ನಿಮ್ಮ ಕೋರ್ಸ್‌ಗೆ ಅನ್ವಯಿಸುವ checklist ಕೇಳಿ. ಗುರುತು ಮತ್ತು ವಯಸ್ಸಿನ ದಾಖಲೆ, ಹಿಂದಿನ ಶೈಕ್ಷಣಿಕ ದಾಖಲೆಗಳು, ಫೋಟೋಗಳು, study / transfer certificate ಹಾಗೂ ನಿಮ್ಮ ಪ್ರಕರಣಕ್ಕೆ ಬೇಕಾಗುವ ಇತರೆ ದಾಖಲೆಗಳು ಇರಬಹುದು."
+       ]
+      ]
+     },
+     {
+      "title": "ಹಂತ 4: ಸಂಪೂರ್ಣ ಶುಲ್ಕ ತಿಳಿದುಕೊಳ್ಳಿ.",
+      "blocks": [
+       [
+        "p",
+        "ಪ್ರವೇಶ ಅಥವಾ ನೋಂದಣಿ ಶುಲ್ಕ, ಬೋಧನಾ ಶುಲ್ಕ, ಪರೀಕ್ಷಾ ಶುಲ್ಕ ಮತ್ತು ಇತರೆ ಅನ್ವಯಿಸುವ ಖರ್ಚುಗಳ ವಿವರ ಪಡೆಯಿರಿ. ಪಾವತಿಸುವ ಮೊದಲು payment schedule, ರದ್ದತಿ ಮತ್ತು ಮರುಪಾವತಿ ನಿಯಮಗಳನ್ನು ತಿಳಿದುಕೊಳ್ಳಿ."
+       ]
+      ]
+     },
+     {
+      "title": "ಹಂತ 5: ಸಂಬಂಧಿತ ಅರ್ಜಿ ಪ್ರಕ್ರಿಯೆ ಅನುಸರಿಸಿ.",
+      "blocks": [
+       [
+        "p",
+        "ನಿಮ್ಮ ಹೆಸರು ಮತ್ತು ವಿದ್ಯಾಭ್ಯಾಸದ ವಿವರಗಳನ್ನು ಸರಿಯಾಗಿ ಪರಿಶೀಲಿಸಿ. ಅರ್ಜಿ ಹೇಗೆ ಸಲ್ಲಿಸಬೇಕು, ಪಾವತಿ ಎಲ್ಲಿ ಮಾಡಬೇಕು ಮತ್ತು ಪ್ರವೇಶ ದೃಢೀಕರಣ ಹೇಗೆ ಸಿಗುತ್ತದೆ ಎಂದು ತಿಳಿಯಿರಿ. Acknowledgement ಮತ್ತು receipts ಉಳಿಸಿಕೊಳ್ಳಿ."
+       ]
+      ]
+     },
+     {
+      "title": "Enquiry ಮಾಡಿದರೆ Admission ಖಚಿತವೇ?",
+      "blocks": [
+       [
+        "p",
+        "Enquiry ಮೂಲಕ ಮಾತುಕತೆ ಆರಂಭವಾಗುತ್ತದೆ. ಪ್ರವೇಶವು ಅರ್ಹತೆ, ದಾಖಲೆ ಪರಿಶೀಲನೆ ಮತ್ತು ಸಂಬಂಧಿತ ಸಂಸ್ಥೆಯ ಪ್ರಕ್ರಿಯೆಗೆ ಒಳಪಟ್ಟಿರುತ್ತದೆ."
+       ],
+       [
+        "button",
+        "ನನ್ನ Course Details ಮತ್ತು Document Checklist ಬೇಕು"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  "locations": {
+   "en": {
+    "seo": "Education Guidance Across Karnataka | Priority Academy Locations",
+    "meta": "Contact Priority Academy from anywhere in Karnataka. Start your course enquiry by phone or WhatsApp, or plan a visit to our Hesaraghatta Main Road office.",
+    "sections": [
+     {
+      "title": "Education Guidance Across Karnataka",
+      "blocks": [
+       [
+        "statement",
+        "Start the conversation from your town."
+       ],
+       [
+        "p",
+        "Your first enquiry can begin by phone or WhatsApp. Tell us where you are based, your last qualification and the course you are considering."
+       ],
+       [
+        "p",
+        "Students and parents across Karnataka can discuss course options with our team before deciding on the next step."
+       ],
+       [
+        "buttons",
+        [
+         "Call Our Team",
+         "Start a WhatsApp Enquiry"
+        ]
+       ]
+      ]
+     },
+     {
+      "title": "What Can You Discuss Remotely?",
+      "blocks": [
+       [
+        "list",
+        [
+         "Your education background and course interests.",
+         "General eligibility and programme information.",
+         "The applicable document checklist.",
+         "Fee information and admission steps.",
+         "Whether a visit or original-document verification is required."
+        ]
+       ]
+      ]
+     },
+     {
+      "title": "Planning Study From Your Location?",
+      "blocks": [
+       [
+        "p",
+        "Ask where classes, academic sessions, practicals, projects and examinations take place for the selected programme. Confirm any travel or attendance requirements before choosing."
+       ]
+      ]
+     },
+     {
+      "title": "Visit Our Bengaluru Office.",
+      "blocks": [
+       [
+        "address",
+        [
+         "Priority Academy",
+         "SV Arcade, No. 116, Gurunath Layout,",
+         "Opp. Bus Stop, Huralichikkanahalli,",
+         "Hesaraghatta Main Road, Bengaluru – 560090."
+        ]
+       ],
+       [
+        "p",
+        "Call before visiting to arrange a counselling conversation and confirm what you should bring."
+       ]
+      ]
+     },
+     {
+      "title": "Share Your District in Your First Message.",
+      "blocks": [
+       [
+        "p",
+        "This helps us understand where you will be studying from and which location-related questions to discuss."
+       ],
+       [
+        "phone",
+        "Call: +91 7760625912 · WhatsApp: +91 6364013899"
+       ]
+      ]
+     }
+    ]
+   },
+   "kn": {
+    "seo": "ಕರ್ನಾಟಕದಾದ್ಯಂತ ಶಿಕ್ಷಣ ಮಾರ್ಗದರ್ಶನ | Priority Academy",
+    "meta": "ಕರ್ನಾಟಕದ ಎಲ್ಲಿಂದಲಾದರೂ Call ಅಥವಾ WhatsApp ಮೂಲಕ ಕೋರ್ಸ್ ಮಾಹಿತಿ ಪಡೆಯಿರಿ. ಬೆಂಗಳೂರಿನ Hesaraghatta Main Roadನಲ್ಲಿರುವ Priority Academy ಕಚೇರಿಗೆ ಭೇಟಿ ನೀಡಿ.",
+    "sections": [
+     {
+      "title": "ಕರ್ನಾಟಕದಾದ್ಯಂತ ಶಿಕ್ಷಣ ಮಾರ್ಗದರ್ಶನ",
+      "blocks": [
+       [
+        "statement",
+        "ನಿಮ್ಮ ಊರಿನಿಂದಲೇ ಸಂಪರ್ಕಿಸಬಹುದು."
+       ],
+       [
+        "p",
+        "ಮೊದಲ enquiryಯನ್ನು Call ಅಥವಾ WhatsApp ಮೂಲಕ ಆರಂಭಿಸಬಹುದು. ನಿಮ್ಮ ಊರು, ಕೊನೆಯ Qualification ಮತ್ತು ಆಸಕ್ತಿ ಇರುವ Course ತಿಳಿಸಿ."
+       ],
+       [
+        "p",
+        "ಕರ್ನಾಟಕದಾದ್ಯಂತ ವಿದ್ಯಾರ್ಥಿಗಳು ಮತ್ತು ಪೋಷಕರು ಮುಂದಿನ ನಿರ್ಧಾರಕ್ಕೂ ಮೊದಲು ನಮ್ಮ ತಂಡದೊಂದಿಗೆ ಕೋರ್ಸ್ ಆಯ್ಕೆಗಳ ಬಗ್ಗೆ ಮಾತನಾಡಬಹುದು."
+       ],
+       [
+        "buttons",
+        [
+         "ನಮ್ಮ ತಂಡಕ್ಕೆ ಕರೆ ಮಾಡಿ",
+         "WhatsAppನಲ್ಲಿ ವಿಚಾರಿಸಿ"
+        ]
+       ]
+      ]
+     },
+     {
+      "title": "ದೂರದಿಂದಲೇ ಯಾವ ಮಾಹಿತಿ ಪಡೆಯಬಹುದು?",
+      "blocks": [
+       [
+        "list",
+        [
+         "ನಿಮ್ಮ ಹಿಂದಿನ ಓದು ಮತ್ತು ಕೋರ್ಸ್ ಆಸಕ್ತಿಯ ಬಗ್ಗೆ ಚರ್ಚೆ.",
+         "ಸಾಮಾನ್ಯ ಅರ್ಹತೆ ಮತ್ತು ಕೋರ್ಸ್ ಮಾಹಿತಿ.",
+         "ಅನ್ವಯಿಸುವ ದಾಖಲೆಗಳ ಪಟ್ಟಿ.",
+         "ಶುಲ್ಕ ಮತ್ತು ಪ್ರವೇಶದ ಹಂತಗಳು.",
+         "ನೇರ ಭೇಟಿ ಅಥವಾ ಮೂಲ ದಾಖಲೆಗಳ ಪರಿಶೀಲನೆ ಅಗತ್ಯವಿದೆಯೇ ಎಂಬ ಮಾಹಿತಿ."
+        ]
+       ]
+      ]
+     },
+     {
+      "title": "ನಿಮ್ಮ ಊರಿನಿಂದ ಓದಲು ಯೋಚಿಸುತ್ತಿದ್ದೀರಾ?",
+      "blocks": [
+       [
+        "p",
+        "ಆಯ್ಕೆ ಮಾಡುವ ಕೋರ್ಸ್‌ನ ತರಗತಿಗಳು, ಶೈಕ್ಷಣಿಕ ಅವಧಿಗಳು, practicals, projects ಮತ್ತು ಪರೀಕ್ಷೆಗಳು ಎಲ್ಲಿ ನಡೆಯುತ್ತವೆ ಎಂದು ಕೇಳಿ. ಪ್ರಯಾಣ ಮತ್ತು ಹಾಜರಾತಿಯ ಅಗತ್ಯಗಳನ್ನು ಮೊದಲು ತಿಳಿದುಕೊಳ್ಳಿ."
+       ]
+      ]
+     },
+     {
+      "title": "ನಮ್ಮ ಬೆಂಗಳೂರು ಕಚೇರಿಗೆ ಭೇಟಿ ನೀಡಿ.",
+      "blocks": [
+       [
+        "address",
+        [
+         "Priority Academy",
+         "SV Arcade, No. 116, Gurunath Layout,",
+         "Opp. Bus Stop, Huralichikkanahalli,",
+         "Hesaraghatta Main Road, Bengaluru – 560090."
+        ]
+       ],
+       [
+        "p",
+        "ಭೇಟಿಗೂ ಮೊದಲು ಕರೆ ಮಾಡಿ. ಮಾತುಕತೆಗೆ ಸಮಯ ಮತ್ತು ತರಬೇಕಾದ ದಾಖಲೆಗಳನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
+       ]
+      ]
+     },
+     {
+      "title": "ಮೊದಲ Messageನಲ್ಲಿ ನಿಮ್ಮ ಜಿಲ್ಲೆ ತಿಳಿಸಿ.",
+      "blocks": [
+       [
+        "p",
+        "ನೀವು ಎಲ್ಲಿಂದ ಓದಲು ಯೋಚಿಸುತ್ತಿದ್ದೀರಿ ಮತ್ತು ಯಾವ ಸ್ಥಳಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿವರಗಳು ಬೇಕಾಗುತ್ತವೆ ಎಂದು ತಿಳಿದುಕೊಳ್ಳಲು ಇದು ಸಹಾಯವಾಗುತ್ತದೆ."
+       ],
+       [
+        "phone",
+        "Call: +91 7760625912 · WhatsApp: +91 6364013899"
+       ]
+      ]
+     }
+    ]
+   }
+  },
+  "contact": {
+   "en": {
+    "seo": "Contact Priority Academy | Bengaluru & Karnataka Enquiries",
+    "meta": "Call Priority Academy on +91 7760625912 or WhatsApp +91 6364013899 for SSLC, PUC, degree and online education guidance. Visit our Hesaraghatta Main Road office in Bengaluru.",
+    "sections": [
+     {
+      "title": "Let’s Talk About Your Education Plans.",
+      "blocks": [
+       [
+        "p",
+        "You may have a course in mind or a question about where to begin. Share your background with Priority Academy and discuss the information you need for your next decision."
+       ]
+      ]
+     },
+     {
+      "title": "Call or WhatsApp",
+      "blocks": [
+       [
+        "phone",
+        "+91 7760625912"
+       ],
+       [
+        "buttons",
+        [
+         "Call Our Team",
+         "Send a WhatsApp Enquiry"
+        ]
+       ]
+      ]
+     },
+     {
+      "title": "What Would You Like to Know?",
+      "blocks": [
+       [
+        "form",
+        null
+       ]
+      ]
+     },
+     {
+      "title": "Visit Priority Academy.",
+      "blocks": [
+       [
+        "address",
+        [
+         "SV Arcade, No. 116, Gurunath Layout,",
+         "Opp. Bus Stop, Huralichikkanahalli,",
+         "Hesaraghatta Main Road, Bengaluru – 560090."
+        ]
+       ],
+       [
+        "p",
+        "Please call before visiting to confirm a suitable time and any documents to bring."
+       ]
+      ]
+     },
+     {
+      "title": "Enquiries Welcome From Across Karnataka.",
+      "blocks": [
+       [
+        "p",
+        "Students and parents can start with a phone or WhatsApp conversation from their location."
+       ],
+       [
+        "script",
+        "Priority Academy — Your Success Is Our Priority."
+       ]
+      ]
+     }
+    ]
+   },
+   "kn": {
+    "seo": "Priority Academy ಸಂಪರ್ಕಿಸಿ | ಬೆಂಗಳೂರು ಮತ್ತು ಕರ್ನಾಟಕ",
+    "meta": "SSLC, PUC, Degree ಮತ್ತು Online Education ಮಾಹಿತಿಗಾಗಿ Priority Academy ಸಂಪರ್ಕಿಸಿ. Call: +91 7760625912 · WhatsApp: +91 6364013899. ಕಚೇರಿ: Hesaraghatta Main Road, ಬೆಂಗಳೂರು.",
+    "sections": [
+     {
+      "title": "ನಿಮ್ಮ ಮುಂದಿನ ಓದಿನ ಬಗ್ಗೆ ಮಾತಾಡೋಣ.",
+      "blocks": [
+       [
+        "p",
+        "ಒಂದು ಕೋರ್ಸ್ ಆಯ್ಕೆ ಮಾಡಿರಬಹುದು. ಅಥವಾ ಎಲ್ಲಿಂದ ಆರಂಭಿಸಬೇಕು ಅನ್ನೋ ಪ್ರಶ್ನೆ ಇರಬಹುದು. ನಿಮ್ಮ ಹಿನ್ನೆಲೆಯನ್ನು Priority Academy ಜೊತೆ ಹಂಚಿಕೊಳ್ಳಿ. ಮುಂದಿನ ನಿರ್ಧಾರಕ್ಕೆ ಬೇಕಾದ ಮಾಹಿತಿಯ ಬಗ್ಗೆ ಮಾತನಾಡಿ."
+       ]
+      ]
+     },
+     {
+      "title": "Call ಅಥವಾ WhatsApp ಮಾಡಿ.",
+      "blocks": [
+       [
+        "phone",
+        "+91 7760625912"
+       ],
+       [
+        "buttons",
+        [
+         "ನಮ್ಮ ತಂಡಕ್ಕೆ ಕರೆ ಮಾಡಿ",
+         "WhatsAppನಲ್ಲಿ ವಿಚಾರಿಸಿ"
+        ]
+       ]
+      ]
+     },
+     {
+      "title": "ನಿಮಗೆ ಯಾವ ಮಾಹಿತಿ ಬೇಕು?",
+      "blocks": [
+       [
+        "form",
+        null
+       ]
+      ]
+     },
+     {
+      "title": "Priority Academy ಕಚೇರಿಗೆ ಭೇಟಿ ನೀಡಿ.",
+      "blocks": [
+       [
+        "address",
+        [
+         "SV Arcade, No. 116, Gurunath Layout,",
+         "Opp. Bus Stop, Huralichikkanahalli,",
+         "Hesaraghatta Main Road, Bengaluru – 560090."
+        ]
+       ],
+       [
+        "p",
+        "ಭೇಟಿಗೂ ಮೊದಲು ಕರೆ ಮಾಡಿ. ಅನುಕೂಲವಾದ ಸಮಯ ಮತ್ತು ತರಬೇಕಾದ ದಾಖಲೆಗಳನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
+       ]
+      ]
+     },
+     {
+      "title": "ಕರ್ನಾಟಕದ ಎಲ್ಲಿಂದಲಾದರೂ ಸಂಪರ್ಕಿಸಬಹುದು.",
+      "blocks": [
+       [
+        "p",
+        "ವಿದ್ಯಾರ್ಥಿಗಳು ಮತ್ತು ಪೋಷಕರು ತಮ್ಮ ಊರಿನಿಂದಲೇ Call ಅಥವಾ WhatsApp ಮೂಲಕ ಮಾತು ಆರಂಭಿಸಬಹುದು."
+       ],
+       [
+        "script",
+        "Priority Academy — Your Success Is Our Priority."
+       ]
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "G": {
+  "en": {
+   "seo": "Photo Gallery | Priority Academy Bengaluru",
+   "meta": "Photos from Priority Academy, Bengaluru — our office on Hesaraghatta Main Road, counselling sessions, students and events.",
+   "kicker": "Gallery",
+   "title": "Moments at",
+   "title2": "Priority Academy.",
+   "sub": "A look inside our office, counselling sessions and the students who chose to continue their education.",
+   "all": "All",
+   "count": "{n} photos",
+   "empty_t": "Photos coming soon",
+   "empty_p": "We’re putting together photos of our office, sessions and students. Visit us on Hesaraghatta Main Road or message us on WhatsApp for a look.",
+   "close": "Close",
+   "prev": "Previous photo",
+   "next": "Next photo",
+   "of": "of"
+  },
+  "kn": {
+   "seo": "ಫೋಟೋ ಗ್ಯಾಲರಿ | Priority Academy ಬೆಂಗಳೂರು",
+   "meta": "Priority Academy ಬೆಂಗಳೂರು — ನಮ್ಮ ಕಚೇರಿ, ಕೌನ್ಸೆಲಿಂಗ್, ವಿದ್ಯಾರ್ಥಿಗಳು ಮತ್ತು ಕಾರ್ಯಕ್ರಮಗಳ ಫೋಟೋಗಳು.",
+   "kicker": "ಗ್ಯಾಲರಿ",
+   "title": "Priority Academy ಯ",
+   "title2": "ಕೆಲವು ಕ್ಷಣಗಳು.",
+   "sub": "ನಮ್ಮ ಕಚೇರಿ, ಕೌನ್ಸೆಲಿಂಗ್ ಮತ್ತು ಓದು ಮುಂದುವರಿಸಲು ನಿರ್ಧರಿಸಿದ ವಿದ್ಯಾರ್ಥಿಗಳ ಒಂದು ನೋಟ.",
+   "all": "ಎಲ್ಲಾ",
+   "count": "{n} ಫೋಟೋಗಳು",
+   "empty_t": "ಫೋಟೋಗಳು ಶೀಘ್ರದಲ್ಲೇ",
+   "empty_p": "ನಮ್ಮ ಕಚೇರಿ, ತರಗತಿಗಳು ಮತ್ತು ವಿದ್ಯಾರ್ಥಿಗಳ ಫೋಟೋಗಳನ್ನು ಸೇರಿಸುತ್ತಿದ್ದೇವೆ. Hesaraghatta Main Roadನಲ್ಲಿರುವ ನಮ್ಮ ಕಚೇರಿಗೆ ಭೇಟಿ ನೀಡಿ ಅಥವಾ WhatsApp ಮಾಡಿ.",
+   "close": "ಮುಚ್ಚಿ",
+   "prev": "ಹಿಂದಿನ ಫೋಟೋ",
+   "next": "ಮುಂದಿನ ಫೋಟೋ",
+   "of": "/"
+  }
+ }
+}

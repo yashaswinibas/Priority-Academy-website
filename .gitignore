@@ -1,0 +1,7 @@
+node_modules/
+hostinger-upload.zip
+.DS_Store
+Thumbs.db
+*.log
+index-for-hostinger.html
+single/
