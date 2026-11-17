@@ -1,6 +1,6 @@
 import { Route, Routes } from 'react-router-dom'
 import { useScrollManager } from './lib/hooks'
-import { Footer, Header, MobileBar } from './components/Layout'
+import { FloatingSocialButtons, Footer, Header, MobileBar } from './components/Layout'
 import Home from './pages/Home'
 import Page from './pages/Page'
 import Gallery from './pages/Gallery'
@@ -20,6 +20,7 @@ export default function App() {
         </Routes>
       </main>
       <Footer />
+      <FloatingSocialButtons />
       <MobileBar />
     </>
   )

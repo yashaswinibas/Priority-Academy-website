@@ -7,12 +7,22 @@ import { ContactButtons } from './Contact'
 
 const COURSES = ['sslc', 'puc', 'degree', 'online']
 const path = (p) => (p === 'home' ? '/' : `/${p}`)
+const SOCIAL_LINKS = [
+  { name: 'Facebook', href: 'https://www.facebook.com/share/17tTWCeMwZ/' },
+  { name: 'Instagram', href: 'https://www.instagram.com/priority_academy_?psln=Y3pvZm1jOW16c3Nv' },
+]
 
 const Brand = () => (
   <Link to="/" className="logo" aria-label="Priority Academy home">
     <Logo />
     <div className="logo-txt"><b>Priority<span>Academy</span></b><small>YOUR SUCCESS IS OUR PRIORITY</small></div>
   </Link>
+)
+
+const SocialIcon = ({ name }) => name === 'Facebook' ? (
+  <svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M13.4 21v-8.2h2.8l.4-3.2h-3.2v-2c0-.9.3-1.6 1.6-1.6h1.7V3.1c-.3 0-1.3-.1-2.5-.1-2.5 0-4.2 1.5-4.2 4.3v2.3H7.2v3.2H10V21h3.4z" /></svg>
+) : (
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5" /><circle cx="12" cy="12" r="4" /><circle cx="17.5" cy="6.8" r="1" fill="currentColor" stroke="none" /></svg>
 )
 
 const Globe = () => (
@@ -93,11 +103,31 @@ export function Footer() {
           <a className="fnum" href={`tel:${PHONE}`}>{PHONE_TXT}</a>
           <a className="fnum fwa" href={waLink(lang)} target="_blank" rel="noopener noreferrer">WhatsApp · {WA_TXT}</a>
           <ContactButtons />
+          <div className="footer-social">
+            <h4>Follow us</h4>
+            <div className="social-links">{SOCIAL_LINKS.map(({ name, href }) => (
+              <a key={name} href={href} target="_blank" rel="noopener noreferrer">
+                <SocialIcon name={name} /><span>{name}</span>
+              </a>
+            ))}</div>
+          </div>
           <address className="faddr">SV Arcade, No. 116, Gurunath Layout,<br />Opp. Bus Stop, Huralichikkanahalli,<br />Hesaraghatta Main Road, Bengaluru – 560090</address>
         </div>
       </div>
       <div className="f-bot"><span>{t.rights}</span><span className="fscript">Your Success Is Our Priority.</span></div>
     </div></footer>
+  )
+}
+
+export function FloatingSocialButtons() {
+  return (
+    <div className="floating-social" aria-label="Follow Priority Academy">
+      {SOCIAL_LINKS.map(({ name, href }) => (
+        <a key={name} href={href} target="_blank" rel="noopener noreferrer" aria-label={`Follow us on ${name}`} title={name}>
+          <SocialIcon name={name} />
+        </a>
+      ))}
+    </div>
   )
 }
 
